@@ -1,6 +1,6 @@
 # Kumaradoss S
 
-**Corporate IT Trainer | System & Network Engineer | Aspiring Cybersecurity Professional**
+**Corporate IT Trainer | System & Network Engineer | Web Developer | SAP Trainer | Aspiring Cybersecurity Professional**
 
 📍 Puducherry, India | 💼 [LinkedIn](https://www.linkedin.com/in/kumaradoss-s) | 🌐 [GitHub](https://github.com/kumaradoss16)
 

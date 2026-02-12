@@ -165,7 +165,6 @@ I am a Corporate IT Trainer with comprehensive expertise in system administratio
 - 🌐 Full-Stack Web Development with cloud deployment
 
 **Business Impact:**
-- Delivered 50+ production-ready AI/ML projects for students and startups
 - Complete project lifecycle management: requirement analysis → deployment
 - Structured pricing plans from ₹2,500 to ₹6,500
 - 24-hour response time with post-delivery support

@@ -22,8 +22,6 @@ I am a Corporate IT Trainer with comprehensive expertise in system administratio
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,8 +46,7 @@ I am a Corporate IT Trainer with comprehensive expertise in system administratio
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![VMware Workstation](https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 - **Learning Areas:** Ethical hacking methodologies, penetration testing techniques, vulnerability assessment
 - **Security Tools:** Network security scanning, security automation scripts
@@ -58,14 +55,12 @@ I am a Corporate IT Trainer with comprehensive expertise in system administratio
 
 ### Development & Cloud
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
 
 ### Automation & Analytics
 
@@ -161,16 +156,6 @@ I am a Corporate IT Trainer with comprehensive expertise in system administratio
 - 🌐 **Network Security:** Deep dive into traffic analysis, intrusion detection, and secure network design
 - 🐛 **Bug Bounty Preparation:** Learning web application security testing, reconnaissance techniques, and responsible disclosure
 - ⚡ **Security Automation:** Building Python scripts for security scanning and monitoring
-
-### 🔧 Technical Skill Development
-
-- ☁️ AWS cloud security architecture and implementation
-- 🐍 Security automation with Python
-- 🌐 Web application penetration testing methodologies
-- 📊 Network packet analysis and forensics
-- 🔬 Vulnerability research and exploit development (educational context)
-
----
 
 ## 💪 Professional Strengths
 

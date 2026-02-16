@@ -150,7 +150,7 @@ I am a Corporate IT Trainer with comprehensive expertise in system administratio
 ### 🤖 AIthon VinLabs - Professional AI/ML Project Services
 
 [![Aithon-Vinlabs](https://img.shields.io/badge/Repository-Aithon_VinLabs-blueviolet?style=for-the-badge&logo=github)](https://github.com/aithon-vinlabs/Aithon-Vinlabs)
-[![Website](https://img.shields.io/badge/Live_Site-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://aithonvinlabs.netlify.app/)
+[![Website](https://img.shields.io/badge/Live_Site-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://aithonvinlabs.pages.dev/)
 
 **Description:** Professional AI & Machine Learning project development service platform  
 **Role:** Co-founder & Technical Lead | Full-Stack Developer  

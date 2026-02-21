@@ -2,7 +2,7 @@
 
 **Corporate IT Trainer | System & Network Engineer | Web Developer | SAP Trainer | Aspiring Cybersecurity Professional**
 
-📍 Puducherry, India | 💼 [LinkedIn](https://www.linkedin.com/in/kumaradoss-s) | 🌐 [GitHub](https://github.com/kumaradoss16)
+📍 Puducherry, India | 💼 [LinkedIn](https://www.linkedin.com/in/kumaradoss-s) | 🌐 [DevspireHub](https://devspirehub.com)
 
 ---
 

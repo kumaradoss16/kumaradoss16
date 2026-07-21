@@ -28,7 +28,7 @@ I'm an **Associate Corporate IT Trainer and System & Network Engineer** at Balsa
 
 My day-to-day role already sits close to the security-adjacent side of IT: I train professionals on hardware & networking, Linux systems, SQL, and enterprise SAP (FICO & MM), and I deliver hands-on troubleshooting across hardware, operating systems, and lab environments. That work is backed by formal networking and systems credentials — **CCNA**, **MCSE**, and hands-on **VMware** experience — which form the infrastructure foundation I'm extending into security engineering: system hardening, network defense, and Linux/Windows administration.
 
-On the development side, I hold a **Diploma in Python and Flask Framework**, and I build and ship Python and full-stack projects — from a console-based ATM transaction system to API-integrated web apps — while co-leading **AIthon VinLabs**, a full-stack/AI project delivery venture where I work across React, Node.js, Python, Flask, and FastAPI. I treat this development work as a force-multiplier for security engineering: writing secure code, automating security tooling, and understanding applications from the inside out.
+On the development side, I hold a **Diploma in Python and Flask Framework**, and I build and ship Python and full-stack projects — from a console-based ATM transaction system to API-integrated web apps. I treat this development work as a force-multiplier for security engineering: writing secure code, automating security tooling, and understanding applications from the inside out.
 
 I also founded **DevspireHub**, and I approach every project — training, infrastructure, or code — with the same habits: clear documentation, systematic troubleshooting, and continuous, self-directed learning.
 

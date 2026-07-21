@@ -363,8 +363,8 @@ Building:
 
 Exploring:
   - Infrastructure security
-  - DevSecOps practices
-  - Threat detection fundamentals
+  - Bug Bounty
+  - Ethical Hacking
   - Web and API security
 
 Open_To:

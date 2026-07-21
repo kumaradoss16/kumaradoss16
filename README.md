@@ -255,7 +255,20 @@ Assisted in designing and developing website components while supporting overall
 |---|---|---|---|
 | Diploma in Python and Flask Framework | Ocean Academy | *Not specified* | *Optional – Add Later* |
 
-*(No Cisco, Microsoft, AWS, Oracle, Google, CompTIA, EC-Council, Red Hat, VMware, ISC2, NPTEL, Coursera, or Udemy certifications were found in the resume, LinkedIn, or GitHub sources — none are listed to avoid fabrication.)*
+Credly Badge Wallet: https://www.credly.com/users/kumaradoss-s/badges/credly
+| # | Certification | Issuer |
+|---|---|---|
+| 1 | Python Essentials 1 & Essentials 2 | Cisco |
+| 2 | JavaScript Essentials 1 & Essentials 2 | Cisco |
+| 3 | Network Support and Security | Cisco |
+| 4 | Linux Essentials | Cisco |
+| 5 | Computer Hardware Basics | Cisco |
+| 6 | Introduction to Cybersecurity | Cisco |
+| 7 | Networking Devices and Initial Configuration | Cisco |
+| 8 | Network Addressing and Basic Troubleshooting | Cisco |
+| 9 | Networking Basics | Cisco |
+| 10 | Google Cybersecurity Professional Certificate V2 | Coursera |
+| 11 | Technical Support Fundamentals (Google) | Coursera | 
 
 **Certification Highlights**
 

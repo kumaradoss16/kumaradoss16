@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:1e3a8a&height=220&section=header&text=Kumaradoss%20S&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20(in%20progress)%20%7C%20Python%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:1e3a8a&height=220&section=header&text=Kumaradoss%20S&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20(in%20progress)%20%7C%20Python%20and%20Full%20Stack%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Associate+Corporate+IT+Trainer+%7C+System+%26+Network+Engineer;Building+toward%3A+Security+Engineering;Backed+by%3A+Python+Development+%2B+Full+Stack+Development;Founder+%40DevspireHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Associate+Corporate+IT+Trainer+%7C+System+and+Network+Engineer;Building+toward%3A+Security+Engineering;Backed+by%3A+Python+Development+%2B+Full+Stack+Development;Founder+%40DevspireHub" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -243,11 +243,23 @@ Assisted in designing and developing website components while supporting overall
 
 ## Certifications
 
-**VKR Solutions**
-- Advanced Diploma in System and Network Engineer
+### Networking
 
-**Ocean Academy**
-- Diploma in Python and Flask Framework
+| Certification | Issued By | Date | Credential |
+|---|---|---|---|
+| Advanced Diploma in System and Network Engineer | VKR Solutions | *Not specified* | *Optional – Add Later* |
+
+### Programming
+
+| Certification | Issued By | Date | Credential |
+|---|---|---|---|
+| Diploma in Python and Flask Framework | Ocean Academy | *Not specified* | *Optional – Add Later* |
+
+*(No Cisco, Microsoft, AWS, Oracle, Google, CompTIA, EC-Council, Red Hat, VMware, ISC2, NPTEL, Coursera, or Udemy certifications were found in the resume, LinkedIn, or GitHub sources — none are listed to avoid fabrication.)*
+
+**Certification Highlights**
+
+The Advanced Diploma in System and Network Engineer directly supports the **Security Engineering (primary)** goal by validating networking and systems fundamentals — the same foundation used in infrastructure and network security work. The Diploma in Python and Flask Framework supports both **Python Development** and **Full Stack Development (secondary)** goals, evidencing formal backend/web framework training that underpins the Flask- and FastAPI-based projects in the Featured Projects section.
 
 ---
 
@@ -264,7 +276,7 @@ Assisted in designing and developing website components while supporting overall
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumaradoss16&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kumaradoss16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaradoss16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" width="42%"/>
 
 <br/>
@@ -299,11 +311,11 @@ Assisted in designing and developing website components while supporting overall
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kumaradoss16/kumaradoss16/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/kumaradoss16/kumaradoss16/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
-> *Note: the snake animation requires a one-time GitHub Actions workflow set up in the `kumaradoss16/kumaradoss16` repository to generate `output/github-contribution-grid-snake.svg`.*
+> **Setup required:** this image will 404 until the snake workflow runs at least once. Add `.github/workflows/snake.yml` (provided alongside this README) to your `kumaradoss16/kumaradoss16` repository, push it, then let the Action run — it will generate `output/github-contribution-grid-snake-dark.svg` on the `output` branch automatically.
 
 ---
 

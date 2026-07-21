@@ -287,7 +287,7 @@ The Advanced Diploma in System and Network Engineer directly supports the **Secu
 
 ## GitHub Analytics
 
-<div align="center"> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kumaradoss16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" width="49%"/> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kumaradoss16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" width="42%"/> <br/> <img src="https://streak-stats.demolab.com/?user=kumaradoss16&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="70%"/> </div>
+<<div align="center"> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kumaradoss16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" width="49%"/> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kumaradoss16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" width="42%"/> <br/> <img src="https://streak-stats.demolab.com/?user=kumaradoss16&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="70%"/> </div>
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:1e3a8a&height=220&section=header&text=Kumaradoss%20S&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20(in%20progress)%20%7C%20Python%20and%20Full%20Stack%20Developer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:1e3a8a&height=220&section=header&text=Kumaradoss%20S&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20(in%20progress)%20%7C%20Python%20and%20Web%20%20Developer&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Associate+Corporate+IT+Trainer+%7C+System+and+Network+Engineer;Building+toward%3A+Security+Engineering;Backed+by%3A+Python+Development+%2B+Full+Stack+Development;Founder+%40DevspireHub" alt="Typing SVG" /></a>
 

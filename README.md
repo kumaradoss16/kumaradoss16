@@ -166,7 +166,6 @@ The Advanced Diploma in System and Network Engineer directly supports the **Secu
 [![GitHub](https://img.shields.io/badge/GitHub-kumaradoss16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumaradoss16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kumaradoss--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaradoss-s/)
 
-*(LeetCode / HackerRank / GeeksforGeeks / CodeChef / Codeforces — Optional – Add Later)*
 
 ---
 
@@ -270,14 +269,6 @@ Open_To:
 **Mid-term (1–3 years):** Move into a Security Engineer / Infrastructure Security Engineer role, applying networking, systems, and Python/full-stack development skills to secure real infrastructure and applications.
 
 **Long-term (3+ years):** Grow into a Senior Security Engineer / Security Architect role, while continuing to build DevspireHub and AIthon VinLabs and mentoring others transitioning from IT training into engineering.
-
----
-
-## Achievements
-
-| Recognition | Details | Impact |
-|---|---|---|
-| *Optional – Add Later* | *Optional – Add Later* | *Optional – Add Later* |
 
 ---
 

@@ -2340,7 +2340,7 @@ function initServicesAndSolver() {
   // REQUIRED CONFIGURATION: replace WEB3FORMS_ACCESS_KEY below with a real key
   // from https://web3forms.com (free, no backend/server required). Get a key
   // by entering the destination email on their site — no account needed.
-  const WEB3FORMS_ACCESS_KEY = 'WEB3FORMS_ACCESS_KEY';
+  const WEB3FORMS_ACCESS_KEY = 'edb14455-e82e-4d0b-b827-1868ecb5973b';
   const WEB3FORMS_ENDPOINT = 'https://api.web3forms.com/submit';
 
   if (form) {

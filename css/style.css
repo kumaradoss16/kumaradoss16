@@ -173,7 +173,7 @@ input, textarea, select { font-family: inherit; }
   50% { opacity: 0.35; transform: scale(0.85); }
 }
 .status-item { display: flex; align-items: center; gap: 0.35rem; }
-.status-item strong { color: var(--cream-100); font-weight: 500; }
+.status-item strong { color: var(--cream-100); font-weight: 600; }
 
 /* ---------- Main Navigation ---------- */
 #main-nav {
@@ -261,24 +261,6 @@ input, textarea, select { font-family: inherit; }
   color: var(--navy-950);
 }
 
-.btn-nav-resume {
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  color: var(--cyan);
-  border: 1px solid rgba(54, 217, 255, 0.4);
-  padding: 0.35rem 0.8rem;
-  border-radius: var(--radius-sm);
-  transition: all var(--transition);
-  background: rgba(54, 217, 255, 0.06);
-  white-space: nowrap;
-}
-.btn-nav-resume:hover {
-  background: var(--cyan);
-  color: var(--navy-950);
-}
-
 .nav-hamburger {
   display: none;
   flex-direction: column;
@@ -293,6 +275,9 @@ input, textarea, select { font-family: inherit; }
   border-radius: 2px;
   transition: all 0.3s;
 }
+.nav-hamburger[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.nav-hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+.nav-hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
 /* ---------- HERO SECTION (Dark Navy) ---------- */
 #hero {
@@ -440,7 +425,7 @@ input, textarea, select { font-family: inherit; }
 }
 .audience-label {
   font-family: var(--font-mono);
-  font-size: 0.62rem;
+  font-size: 0.7rem;
   color: var(--text-muted-light);
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -567,7 +552,7 @@ input, textarea, select { font-family: inherit; }
 }
 .term-quick-btn {
   font-family: var(--font-mono);
-  font-size: 0.62rem;
+  font-size: 0.7rem;
   color: var(--text-muted-light);
   border: 1px solid var(--border-dark);
   padding: 0.15rem 0.5rem;
@@ -600,7 +585,7 @@ input, textarea, select { font-family: inherit; }
   border-radius: var(--radius-sm);
 }
 .telem-val { font-size: 1.2rem; font-weight: 700; color: var(--orange); }
-.telem-label { font-size: 0.6rem; color: var(--text-muted-light); text-transform: uppercase; }
+.telem-label { font-size: 0.68rem; color: var(--text-muted-light); text-transform: uppercase; }
 
 /* ---------- TECHNICAL IDENTITY STRIP (5 COLUMNS) ---------- */
 #identity-strip {
@@ -992,7 +977,7 @@ input, textarea, select { font-family: inherit; }
 }
 .skill-cat {
   font-family: var(--font-mono);
-  font-size: 0.6rem;
+  font-size: 0.68rem;
   letter-spacing: 0.06em;
   color: var(--orange);
 }
@@ -1002,7 +987,7 @@ input, textarea, select { font-family: inherit; }
   display: flex;
   justify-content: space-between;
   font-family: var(--font-mono);
-  font-size: 0.6rem;
+  font-size: 0.68rem;
   color: var(--text-muted-dark);
   margin-bottom: 0.25rem;
 }
@@ -1028,7 +1013,7 @@ input, textarea, select { font-family: inherit; }
 }
 .skill-tag {
   font-family: var(--font-mono);
-  font-size: 0.58rem;
+  font-size: 0.66rem;
   padding: 0.15rem 0.4rem;
   background: var(--cream-200);
   border: 1px solid var(--border-light);
@@ -1234,7 +1219,7 @@ input, textarea, select { font-family: inherit; }
 .project-body { padding: 1.25rem; flex-grow: 1; display: flex; flex-direction: column; }
 .project-id-tag {
   font-family: var(--font-mono);
-  font-size: 0.62rem;
+  font-size: 0.7rem;
   font-weight: 700;
   color: var(--orange-btn);
   letter-spacing: 0.08em;
@@ -1257,7 +1242,7 @@ input, textarea, select { font-family: inherit; }
 .project-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-bottom: 1rem; }
 .project-tag {
   font-family: var(--font-mono);
-  font-size: 0.58rem;
+  font-size: 0.66rem;
   padding: 0.15rem 0.45rem;
   background: var(--cream-200);
   border: 1px solid var(--border-light);
@@ -1309,7 +1294,7 @@ input, textarea, select { font-family: inherit; }
 .ongoing-status-tag {
   display: inline-block;
   font-family: var(--font-mono);
-  font-size: 0.6rem;
+  font-size: 0.68rem;
   font-weight: 700;
   letter-spacing: 0.08em;
   padding: 0.15rem 0.45rem;
@@ -1497,7 +1482,7 @@ input, textarea, select { font-family: inherit; }
 .edu-card-type {
   display: inline-block;
   font-family: var(--font-mono);
-  font-size: 0.6rem;
+  font-size: 0.68rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   background: var(--navy-950);
@@ -1581,7 +1566,7 @@ input, textarea, select { font-family: inherit; }
   align-items: center;
   gap: 0.3rem;
   font-family: var(--font-mono);
-  font-size: 0.6rem;
+  font-size: 0.68rem;
   padding: 0.15rem 0.5rem;
   border-radius: var(--radius-pill);
   white-space: nowrap;
@@ -1712,7 +1697,7 @@ input, textarea, select { font-family: inherit; }
 }
 .vlan-device {
   font-family: var(--font-mono);
-  font-size: 0.58rem;
+  font-size: 0.66rem;
   padding: 0.15rem 0.45rem;
   background: var(--navy-950);
   border: 1px solid var(--border-dark);
@@ -2025,7 +2010,7 @@ input, textarea, select { font-family: inherit; }
 
 .article-cat {
   font-family: var(--font-mono);
-  font-size: 0.62rem;
+  font-size: 0.7rem;
   font-weight: 700;
   color: var(--orange, #de9012);
   letter-spacing: 0.08em;
@@ -2072,17 +2057,10 @@ input, textarea, select { font-family: inherit; }
   }
 }
 
-@media (max-width: 768px) {
-  .devspire-hero,
-  .devspire-content-grid,
-  .article-cards-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .devspire-lane-grid {
-    grid-template-columns: 1fr;
-  }
-}
+/* The 768px rules for .devspire-hero / .devspire-content-grid /
+   .devspire-lane-grid / .article-cards-grid used to be duplicated here AND
+   in the main responsive breakpoint block below — removed the duplicate,
+   see the "RESPONSIVE BREAKPOINTS" @media (max-width: 768px) block. */
 
 /* ---------- FREELANCE SERVICES (1:1 REFERENCE MATCH) ---------- */
 #services-pc {
@@ -2118,14 +2096,20 @@ input, textarea, select { font-family: inherit; }
   color: #11202C;
 }
 .services-ref-badges span { display: inline-flex; align-items: center; gap: 0.35rem; }
-
-/* 5 Main Service Cards Grid */
-.services-ref-grid-5 {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 1rem;
-  margin-bottom: 2.5rem;
+.solver-empty-state {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #4A5568;
+  background: #FAF8F2;
+  border: 1px dashed #C9CFD6;
+  border-radius: var(--radius-lg);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
 }
+
+/* Cards grid: HTML uses .services-ref-grid-4 (auto-fit inline style);
+   the old fixed 5-column .services-ref-grid-5 rule was dead CSS (no
+   matching element) and has been removed. */
 .service-ref-card {
   background: #FFFFFF;
   border: 2px solid #11202C;
@@ -3144,7 +3128,6 @@ textarea.form-input { resize: vertical; min-height: 100px; }
 
 /* ---------- RESPONSIVE BREAKPOINTS ---------- */
 @media (max-width: 1200px) {
-  .services-ref-grid-5 { grid-template-columns: repeat(3, 1fr); }
   .identity-grid { grid-template-columns: repeat(3, 1fr); }
   .projects-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-matrix-grid { grid-template-columns: 1.5fr 1fr 1fr; }
@@ -3162,7 +3145,6 @@ textarea.form-input { resize: vertical; min-height: 100px; }
   .devspire-lane-grid { grid-template-columns: 1fr; }
   .exp-edu-grid { grid-template-columns: 1fr; gap: 2rem; }
   .tc-header { align-items: flex-start; }
-  .services-ref-grid-5 { grid-template-columns: 1fr; }
   .identity-grid { grid-template-columns: 1fr; }
   .projects-grid { grid-template-columns: 1fr; }
   .addons-ref-grid { grid-template-columns: 1fr; }
@@ -3170,7 +3152,20 @@ textarea.form-input { resize: vertical; min-height: 100px; }
   .article-cards-grid { grid-template-columns: 1fr; }
   .footer-matrix-grid { grid-template-columns: 1fr; }
   .nav-links { display: none; }
-  .nav-hamburger { display: flex; }
+  /* Command palette + terminal quick-actions are desktop conveniences;
+     hiding them below the nav-collapse breakpoint is what actually frees
+     up room for the hamburger button and stops the nav bar overflowing
+     horizontally on narrow phones. Both stay reachable elsewhere
+     (Ctrl+K works regardless of visibility; Terminal has its own section). */
+  .btn-nav-cmd, .btn-nav-terminal { display: none; }
+  .nav-hamburger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0.5rem;
+  }
   .nav-links.mobile-open {
     display: flex;
     flex-direction: column;
@@ -3179,13 +3174,40 @@ textarea.form-input { resize: vertical; min-height: 100px; }
     left: 0;
     right: 0;
     background: var(--navy-800);
-    padding: 1rem;
+    padding: 0.5rem;
     border-bottom: 1px solid var(--border-dark);
     z-index: 998;
+    max-height: calc(100vh - 60px);
+    overflow-y: auto;
+    animation: nav-drawer-in 0.22s ease;
   }
-  #status-bar { display: none; }
+  .nav-links.mobile-open a {
+    display: block;
+    padding: 0.85rem 1rem;
+    font-size: 0.78rem;
+    border-radius: var(--radius-sm);
+  }
+  /* Keep the status bar on mobile instead of hiding it outright — drop the
+     secondary CPU/MODE readout so the essentials (status, location, time)
+     still fit on one line without overflowing. */
+  #status-bar .container { gap: 0.5rem 0.75rem; }
+  .status-left .status-item:nth-child(2),
+  .status-left .status-item:nth-child(3) { display: none; }
+  .status-left, .status-right { font-size: 0.7rem; gap: 0.75rem; }
   .floating-actions-group { bottom: 1rem; left: 1rem; }
   #scroll-top { bottom: 4.5rem; right: 1rem; }
+}
+
+@keyframes nav-drawer-in {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Below ~712px there isn't room even for the trimmed status bar next to the
+   sticky nav — collapse it to just the live status dot + label. */
+@media (max-width: 480px) {
+  .status-right { display: none; }
+  .status-left { font-size: 0.68rem; }
 }
 
 /* ---------- PRINT SPECIFIC STYLES (@media print) ---------- */

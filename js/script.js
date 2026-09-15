@@ -194,7 +194,7 @@ function initCommandPalette() {
 
     closeCmdModal();
     if (action === 'resume') {
-      $('#nav-resume-btn')?.click();
+      if (typeof window.openResumeModal === 'function') window.openResumeModal();
     } else if (action === 'share') {
       $('#floating-share')?.click();
     } else if (url) {
@@ -256,7 +256,7 @@ function initSkillBars() {
    SKILLS FILTER
    ------------------------------------------------------------------ */
 function initSkillsFilter() {
-  const btns = $$('.filter-btn');
+  const btns = $$('.skills-filters .filter-btn');
   const cards = $$('.skill-card');
 
   btns.forEach(btn => {
@@ -356,7 +356,7 @@ function initTopologyInspector() {
    5. TECHNOLOGY STACK MATRIX FILTERING
    ------------------------------------------------------------------ */
 function initStackFilters() {
-  const btns = $$('.filter-btn[data-filter]');
+  const btns = $$('.stack-filters .filter-btn');
   const rows = $$('#stack-table-body tr');
 
   btns.forEach(btn => {
@@ -1664,7 +1664,7 @@ const TERMINAL_DATABASE = {
   3. <span class="term-cmd">Complete PC Setup:</span> &#x20B9;1,499+ (OS installation, baseline security, apps)
   4. <span class="term-cmd">Hardware Upgrade:</span> &#x20B9;299–&#x20B9;599+ (RAM, SSD, GPU installation)
 <span class="term-prompt">Web Development:</span>
-  5. <span class="term-cmd">Responsive Website:</span> &#x20B9;1,999+ / Custom (100/100 Lighthouse, pure HTML/CSS/JS)
+  5. <span class="term-cmd">Responsive Website:</span> based on the requirements / Custom (100/100 Lighthouse, pure HTML/CSS/JS)
 <span class="term-success">> Action:</span> <a href="https://wa.me/919514058491?text=Hi+Kumaradoss,+I+would+like+to+discuss+a+project." target="_blank" class="term-btn-chip">Chat on WhatsApp &#x2197;</a>
 `,
   web: `
@@ -1715,7 +1715,7 @@ const TERMINAL_DATABASE = {
 2. Windows Tune-Up: &#x20B9;699+
 3. Complete PC Setup: &#x20B9;1,499+
 4. PC Hardware Upgrade: &#x20B9;299–&#x20B9;599+
-5. Responsive Website Creation: &#x20B9;1,999+ / Custom
+5. Responsive Website Creation: based on the requirements / Custom
 - Service Add-ons: Malware Removal (&#x20B9;299+), Backup/Restore (&#x20B9;499+), Disk Cloning (&#x20B9;799+)
 `,
   whatsapp: `
@@ -1896,13 +1896,12 @@ function renderResume(roleKey) {
 
 function initResumeGenerator() {
   const modal = $('#resume-modal');
-  const openBtn = $('#nav-resume-btn');
   const closeBtn = $('#resume-modal-close');
   const printBtn = $('#btn-print-resume');
   const resetBtn = $('#btn-reset-resume');
   const roleBtns = $$('.role-select-btn');
 
-  if (!modal || !openBtn || !closeBtn) return;
+  if (!modal || !closeBtn) return;
 
   function openResumeModal() {
     renderResume('network');
@@ -1914,10 +1913,13 @@ function initResumeGenerator() {
   function closeResumeModal() {
     modal.classList.remove('open');
     document.body.style.overflow = '';
-    openBtn.focus();
   }
 
-  openBtn.addEventListener('click', openResumeModal);
+  // Exposed so other entry points (e.g. the Command Palette's
+  // "Open Resume Generator" action) can open this modal without needing
+  // a dedicated nav button.
+  window.openResumeModal = openResumeModal;
+
   closeBtn.addEventListener('click', closeResumeModal);
   modal.addEventListener('click', e => { if (e.target === modal) closeResumeModal(); });
 
@@ -2288,7 +2290,8 @@ function initPasswordMeter() {
    ------------------------------------------------------------------ */
 function initServicesAndSolver() {
   const solverBtns = $$('.solver-categories .filter-btn');
-  const serviceCards = $$('.services-ref-grid-5 .service-ref-card');
+  const serviceCards = $$('#services-pc [data-solver-group]');
+  const emptyState = $('#solver-empty-state');
   const form = $('#contact-form');
   const serviceSelect = $('#cf-service');
   const priceNotice = $('#price-notice-box');
@@ -2301,11 +2304,18 @@ function initServicesAndSolver() {
       btn.classList.add('active');
       const solver = btn.dataset.solver;
 
+      let visibleCount = 0;
       serviceCards.forEach(card => {
         const group = card.dataset.solverGroup || '';
         const match = solver === 'all' || group === solver;
-        card.style.display = match ? 'flex' : 'none';
+        // Reset to the stylesheet's own display value (flex for cards,
+        // block for the full-width web-services wrapper) instead of
+        // forcing 'flex' on every matched element.
+        card.style.display = match ? '' : 'none';
+        if (match) visibleCount++;
       });
+
+      if (emptyState) emptyState.hidden = visibleCount > 0;
     });
   });
 

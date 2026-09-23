@@ -51,6 +51,8 @@ function initClock() {
   setInterval(tick, 1000);
 }
 
+
+
 /* ------------------------------------------------------------------
    2. STICKY NAVIGATION & ACTIVE SECTION HIGHLIGHT
    ------------------------------------------------------------------ */
@@ -109,6 +111,34 @@ function initNav() {
       }
     });
   }
+}
+
+function downloadProject(
+  filename = 'Kumaradoss_S_Resume.rar',
+  filePath = 'assets/resume/resume.rar'
+) {
+  const link    = document.createElement('a');
+  link.href     = filePath;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
+
+/* ------------------------------------------------------------------
+   HERO "DOWNLOAD RESUME" BUTTON
+   Forces an actual file download instead of navigating to / opening
+   the PDF in the current or a new browser tab.
+   ------------------------------------------------------------------ */
+function initHeroResumeDownload() {
+  const btn = $('#downloadResume');
+  if (!btn) return;
+
+  btn.addEventListener('click', (e) => {
+    e.preventDefault();
+    downloadProject('Kumaradoss_S_Resume.rar', 'assets/resume/resume.rar');
+    showToast('Downloading resume...');
+  });
 }
 
 /* ------------------------------------------------------------------
@@ -1654,7 +1684,7 @@ const TERMINAL_DATABASE = {
 <span class="term-prompt">Credentials:</span> 10+ Certifications across Cisco, Google, Meta, & ISC2 Candidate
 <span class="term-prompt">Core Strengths:</span> Active Directory, VLAN Architecture, Hardening, Python Automation, Training L&D
 <span class="term-success">&#x2713; Immediate Availability for full-time & high-impact contracts.</span>
-<span class="term-cmd">> Action:</span> <a href="[ADD_RESUME_URL]" target="_blank" class="term-btn-chip">Download Resume PDF &#x2197;</a>
+<span class="term-cmd">> Action:</span> <a href="assets/resume/resume.pdf" download="resume.pdf" class="term-btn-chip">Download Resume PDF</a>
 `,
   client: `
 <span class="term-accent">=== CLIENT DESKTOP & IT SERVICES ===</span>
@@ -2498,6 +2528,7 @@ function initScrollTop() {
 document.addEventListener('DOMContentLoaded', () => {
   initClock();
   initNav();
+  initHeroResumeDownload();
   initAudienceSwitcher();
   initCommandPalette();
   initSkillBars();
@@ -2516,6 +2547,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initPasswordMeter();
   initServicesAndSolver();
   initScrollTop();
+  downloadProject;
 
   console.log('%cWAVE FUNCTION // IT Engineering Command Center', 'color:#F5A623;font-family:monospace;font-size:14px;font-weight:bold;');
   console.log('%cKumaradoss S  |  Build. Break. Fix. Secure. Document. Teach.', 'color:#36D9FF;font-family:monospace;font-size:11px;');

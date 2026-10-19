@@ -1,4 +1,4 @@
-# AI Workflow Orchestrator — Complete Project Blueprint
+# AI Workflow Orchestrator - Complete Project Blueprint
 
 Product concept: A desktop-first AI engineering workspace that connects multiple AI models, project knowledge, prompts, code, technical documentation, and development workflows through one reliable source of truth.
 
@@ -6,7 +6,7 @@ The platform should solve the problem you experience when building websites, sof
 
 The long-term opportunity is to go beyond a multi-model chat interface and build an AI Engineering Operations Platform that coordinates the complete lifecycle of AI-assisted software development.
 
-[Kob AI — The AI IDE That Thinks Smarter | 80% Fewer Tokens](https://images.openai.com/static-rsc-4/PvnGSeXvBWpuJvbHk8piG1ionihu1SkLtqBS3Vn8Hhp64xRrYAYSEwkpUqS4FtoNEbaaCthVIR-seHnHNExk8a7PQYKg7U3-BWe3BZgMMCcPX3UASen-GUlnTinXQylv1R3okqBpml3RUKgQjsivao14k_tjXgtT1W5AYvknX3s?purpose=inline)
+[Kob AI - The AI IDE That Thinks Smarter | 80% Fewer Tokens](https://images.openai.com/static-rsc-4/PvnGSeXvBWpuJvbHk8piG1ionihu1SkLtqBS3Vn8Hhp64xRrYAYSEwkpUqS4FtoNEbaaCthVIR-seHnHNExk8a7PQYKg7U3-BWe3BZgMMCcPX3UASen-GUlnTinXQylv1R3okqBpml3RUKgQjsivao14k_tjXgtT1W5AYvknX3s?purpose=inline)
 
 [kob-ai.dev](https://www.kob-ai.dev/?utm_source=chatgpt.com)
 
@@ -87,9 +87,9 @@ This separation prevents the product from becoming dependent on unsupported acce
 
 The following is the recommended full product scope. These are logical modules, not a requirement to build all of them in the first release.
 
-[SessionPilot — Self-Hosted Dashboard for Claude Code Sessions](https://images.openai.com/static-rsc-4/K5fn9B_zkrrTK6bVbOr637oBflSFjgpRe-wmgQPpZ6wboogNLKR2uWq7zGffPiXaWEHFLi6jg4i1eY4kRIDylv0eTgGPixmwo4ZRjlh0wfoB57t2fbfJx02mxcgNXFLdzj9dwKI6BatkQR2DnF_wEL4p6rpRtwz5wXi7rvHWSxg?purpose=inline)
+[SessionPilot - Self-Hosted Dashboard for Claude Code Sessions](https://images.openai.com/static-rsc-4/K5fn9B_zkrrTK6bVbOr637oBflSFjgpRe-wmgQPpZ6wboogNLKR2uWq7zGffPiXaWEHFLi6jg4i1eY4kRIDylv0eTgGPixmwo4ZRjlh0wfoB57t2fbfJx02mxcgNXFLdzj9dwKI6BatkQR2DnF_wEL4p6rpRtwz5wXi7rvHWSxg?purpose=inline)
 
-Module 01 — Engineering Command Center
+Module 01 - Engineering Command Center
 
 The main dashboard for all projects and active workflows.
 
@@ -99,9 +99,9 @@ The main dashboard for all projects and active workflows.
 - Resource usage, model costs, and recent changes.
 - Global search across projects and technical knowledge.
 
-[Tracigo — AI-native development workspace](https://images.openai.com/static-rsc-4/5RyMVR4iojmDeUgoVL4Ei4KL7rmVyyQGtPz1bUsgrk85XBcZyt5OjMV2joe78nfVAt-qJZ0y2p939VMXXDE9CCMv6BODEHB6C66zPAPjhunhOM4y1V2XC22oxUy4BNzrY7iJLSaOnCb4qWIW-d68CJ0RYTcQfv9FG5AwEKUmOFQ?purpose=inline)
+[Tracigo - AI-native development workspace](https://images.openai.com/static-rsc-4/5RyMVR4iojmDeUgoVL4Ei4KL7rmVyyQGtPz1bUsgrk85XBcZyt5OjMV2joe78nfVAt-qJZ0y2p939VMXXDE9CCMv6BODEHB6C66zPAPjhunhOM4y1V2XC22oxUy4BNzrY7iJLSaOnCb4qWIW-d68CJ0RYTcQfv9FG5AwEKUmOFQ?purpose=inline)
 
-Module 02 — Project Context Engine
+Module 02 - Project Context Engine
 
 The central memory system that eliminates repeated project explanations.
 
@@ -114,7 +114,7 @@ The central memory system that eliminates repeated project explanations.
 
 [NanthAI – Multi-Model AI Platform | Compare ChatGPT, Claude, Gemini Side-by-Side | 95% Cheaper](https://images.openai.com/static-rsc-4/3cSZ_kXTBsB05sAyxFR94iyzr11HlHKauRRYV_N0W8_ODS2Iw_cAzQFkzbUELSY0A8aOy7-HhNCllomo_QddHZ1mwZrYw5ms4tu-PucOVKKFiT2_drsPjLzl8LqMzXY5-65jr1S7VikkeY8IKF-DAK22FWHmdZFqU0aqjbeu_PY?purpose=inline)
 
-Module 03 — Multi-Model Workbench
+Module 03 - Multi-Model Workbench
 
 Coordinate model interactions without pretending every provider is interchangeable.
 
@@ -126,9 +126,9 @@ Coordinate model interactions without pretending every provider is interchangeab
 - Structured response capture, citations, and cost tracking.
 - Local-model support where compatible.
 
-[Fermata — AI Agent Orchestrator for macOS](https://images.openai.com/static-rsc-4/4HCNeEB4l6dc5dpFHYIgjj1QGS4PlkOmVvxVA3Xk5k3Elwn3q-Vjv-IwXvnUY5AGa9tR67BHeF_Fi1Pyelvt75lsIzuaAIg6JAh4pTOOaDEo9NR798BvJlEfUJPyaRN-dl0u5TcqL71IX3tLOIfzPkNBrxWI2ykFYLtdO4AyanY?purpose=inline)
+[Fermata - AI Agent Orchestrator for macOS](https://images.openai.com/static-rsc-4/4HCNeEB4l6dc5dpFHYIgjj1QGS4PlkOmVvxVA3Xk5k3Elwn3q-Vjv-IwXvnUY5AGa9tR67BHeF_Fi1Pyelvt75lsIzuaAIg6JAh4pTOOaDEo9NR798BvJlEfUJPyaRN-dl0u5TcqL71IX3tLOIfzPkNBrxWI2ykFYLtdO4AyanY?purpose=inline)
 
-Module 04 — Workflow Orchestrator
+Module 04 - Workflow Orchestrator
 
 A controlled workflow engine for multi-stage engineering work.
 
@@ -140,9 +140,9 @@ A controlled workflow engine for multi-stage engineering work.
 - Workflow run history and failure recovery.
 - Scheduled and event-triggered workflows in later releases.
 
-[Foam — Your knowledge graph. For you and your AI.](https://images.openai.com/static-rsc-4/9j2OIeXaHBVGrTuXdmYjUNnZc1Xhfqv5dY-RA3dxrTju-t1nC8sW0yXI4-_N2AgrnG73xVfbmTnUOeiCsNZOo6TKyq-xz5uDaXncCWi_yEAx6okrEq1JED-m_3Dstjvbd_RHI_eGTq6srfAgf22fZ0pWN_EEQ_Fekk6qC48sreg?purpose=inline)
+[Foam - Your knowledge graph. For you and your AI.](https://images.openai.com/static-rsc-4/9j2OIeXaHBVGrTuXdmYjUNnZc1Xhfqv5dY-RA3dxrTju-t1nC8sW0yXI4-_N2AgrnG73xVfbmTnUOeiCsNZOo6TKyq-xz5uDaXncCWi_yEAx6okrEq1JED-m_3Dstjvbd_RHI_eGTq6srfAgf22fZ0pWN_EEQ_Fekk6qC48sreg?purpose=inline)
 
-Module 05 — Knowledge and Prompt Studio
+Module 05 - Knowledge and Prompt Studio
 
 Turn useful prompts and technical answers into reusable engineering assets.
 
@@ -155,7 +155,7 @@ Turn useful prompts and technical answers into reusable engineering assets.
 
 [Rakh](https://images.openai.com/static-rsc-4/GMnavPYNUVJbAOFgLAAZK4r8yGqEuJ5tZoCfcjOzyobgzDdtrXvC5gOruagDiP0V4cBOICAlj9Gs7zMZJRGX2Yn03Zr_L9wtHSZE3Xjepl9YTaTvdvKgeZrOWdLt6kACMqzTGJZuXmixI4FPjZtgq3-Jf172otOZiHVmxANby0I?purpose=inline)
 
-Module 06 — Code and Artifact Operations
+Module 06 - Code and Artifact Operations
 
 Manage the actual deliverables produced through AI-assisted work.
 
@@ -168,7 +168,7 @@ Manage the actual deliverables produced through AI-assisted work.
 
 [Software Composition Analysis | SCA - Palo Alto Networks](https://images.openai.com/static-rsc-4/SOYYL0tZSpUsd3WGat7UzrECgTOo0RS47Dg6IVDc8pk9z-iPlPET-K_afLC2-61sNeG6CqfnsTS-qi-2iC0n3Z-rdCI0x_b2hr64RFQ5k2eBjS_h425rkixL27V6g_Z6svygpwPnzg989NizjBb3hTI_H5tektpNNEf2WrLvxhM?purpose=inline)
 
-Module 07 — Quality and Verification Engine
+Module 07 - Quality and Verification Engine
 
 Verify outputs against explicit requirements rather than relying on AI confidence.
 
@@ -181,7 +181,7 @@ Verify outputs against explicit requirements rather than relying on AI confidenc
 
 [Daniel Danek | Python Backend Engineer for AI Governance and Agent Systems](https://images.openai.com/static-rsc-4/jg-PS4MUoYLh70EGIvznbyg1YsfHOBeHzO--Uuidk6UQ34FVRIIWo0zvxtoufDgbG5KnSroDsYp5ieEZGt9MK4bdPYQLbSxbtMH6ljtQz0PhQj4jCdmW7vaURtUAr06CEplrtMx5ipWz9o09gC3ZEniXow2L34I8NhJf90PG3FY?purpose=inline)
 
-Module 08 — Agent and Tool Runtime
+Module 08 - Agent and Tool Runtime
 
 Give AI agents controlled access to development tools.
 
@@ -313,15 +313,15 @@ Do not hard-code a permanent ranking of AI models. Capabilities, prices, context
 
 ### Three execution modes
 
-Mode A — Assisted handoff
+Mode A - Assisted handoff
 
 The system prepares a task packet for an existing AI website or coding tool. The user submits the task and imports the response. This mode should work without requiring provider API integration.
 
-Mode B — API orchestration
+Mode B - API orchestration
 
 The platform calls supported model APIs, runs parallel analyses, compares responses, and routes follow-up tasks. API access, cost limits, and provider-specific features must be explicit.
 
-Mode C — Agentic execution
+Mode C - Agentic execution
 
 Agents can inspect repositories, modify files in isolated workspaces, run tests, and prepare pull requests. Destructive operations and production deployments require separately defined permissions.
 
@@ -494,61 +494,61 @@ An approval must apply to a specific action and revision. If the proposed operat
 
 A durable platform must handle more than today's context fragmentation.
 
-Problem 1 — Project memory becomes stale
+Problem 1 - Project memory becomes stale
 
 Future risk: The codebase changes, but saved architecture and prompts still describe an old implementation.
 
 Feature: Detect divergence between approved decisions and repository state. Mark uncertain or outdated context explicitly rather than silently treating it as current.
 
-Problem 2 — Multiple agents edit overlapping code
+Problem 2 - Multiple agents edit overlapping code
 
 Future risk: Parallel agents overwrite files or produce incompatible changes.
 
 Feature: Isolated Git worktrees, task-level file ownership, optimistic concurrency checks, integration queues, and conflict-resolution workflows.
 
-Problem 3 — AI costs become unpredictable
+Problem 3 - AI costs become unpredictable
 
 Future risk: Multi-agent workflows repeatedly call expensive models, retry failed tasks, or consume excessive context.
 
 Feature: Per-project budgets, task-level cost estimates, model routing policies, retry ceilings, caching where appropriate, and spending alerts.
 
-Problem 4 — Models disagree or confidently produce incorrect results
+Problem 4 - Models disagree or confidently produce incorrect results
 
 Future risk: More agents create more opinions, but not necessarily better outcomes.
 
 Feature: Evidence-linked claims, explicit uncertainty, independent review, reproducible tests, and a policy for resolving contradictory findings.
 
-Problem 5 — Provider APIs and models change
+Problem 5 - Provider APIs and models change
 
 Future risk: A model is deprecated, API behavior changes, or an integration loses functionality.
 
 Feature: Versioned provider adapters, capability discovery, contract tests, graceful fallback, and portable workflow definitions.
 
-Problem 6 — Knowledge is spread across repositories and tools
+Problem 6 - Knowledge is spread across repositories and tools
 
 Future risk: Teams accumulate thousands of files, conversations, logs, and decisions.
 
 Feature: Hybrid search, metadata filters, source attribution, permission-aware retrieval, and duplicate/stale document detection.
 
-Problem 7 — Collaboration introduces competing project states
+Problem 7 - Collaboration introduces competing project states
 
 Future risk: Team members approve conflicting decisions or work from different versions of a specification.
 
 Feature: Shared decision records, role-based access control, revision-aware approvals, merge policies, and an authoritative remote state in a later cloud release.
 
-Problem 8 — Automation fails halfway through
+Problem 8 - Automation fails halfway through
 
 Future risk: The application crashes after a tool runs but before its result is recorded, leaving uncertain state.
 
 Feature: Durable workflow states, idempotent operations where feasible, checkpoints, recovery procedures, and explicit reconciliation of uncertain outcomes.
 
-Problem 9 — Malicious content manipulates agents
+Problem 9 - Malicious content manipulates agents
 
 Future risk: A repository, issue, or web page contains instructions that trick an agent into exposing data or performing unauthorized operations.
 
 Feature: Trust boundaries, scoped tools, isolated execution, network restrictions, secret filtering, and approval enforcement outside the model itself.
 
-Problem 10 — Nobody can reconstruct why a change happened
+Problem 10 - Nobody can reconstruct why a change happened
 
 Future risk: A bug appears weeks after an AI-generated change, but its prompt, context, reviewer, and validation evidence are missing.
 
@@ -610,7 +610,7 @@ Require review
 
 VALIDATION
 
-# —
+# -
 
 Live check status
 
@@ -640,7 +640,7 @@ Review changes
 
 Pending approval
 
-Illustrative dashboard preview — sample figures are not live application data.
+Illustrative dashboard preview - sample figures are not live application data.
 
 Visual direction: graphite surfaces, electric-violet accents, compact information density, clear task status, and visible validation evidence.
 
@@ -838,7 +838,7 @@ Validate willingness to pay before implementing billing, cloud infrastructure, o
 
 Given the breadth of the idea, the first month should validate the core workflow rather than attempt to deliver the complete product.
 
-### Week 1 — Discovery and specification
+### Week 1 - Discovery and specification
 
 Document your current multi-AI workflow using two or three real projects.
 
@@ -848,7 +848,7 @@ Define canonical project files, task states, and data-integrity rules.
 
 Write testable MVP acceptance criteria.
 
-### Week 2 — Core context engine
+### Week 2 - Core context engine
 
 Implement project and task persistence.
 
@@ -858,7 +858,7 @@ Generate versioned model-specific task packets.
 
 Import responses and track approval status.
 
-### Week 3 — Desktop integration
+### Week 3 - Desktop integration
 
 Build the initial Tauri workspace.
 
@@ -868,7 +868,7 @@ Display context snapshots, task history, and diffs.
 
 Add backup, restore, and error handling.
 
-### Week 4 — Validation and real-world pilot
+### Week 4 - Validation and real-world pilot
 
 Add automated regression and integrity tests.
 
@@ -884,12 +884,12 @@ Treat this as a planning target, not a guaranteed delivery schedule. The actual 
 
 Build the product in this order:
 
-1. Project context and source of truth — solve fragmented memory first.
-2. Prompt and task handoffs — reduce repetitive manual work across existing AI tools.
-3. Desktop workspace and Git integration — connect the workflow to real project files.
-4. Model APIs and structured orchestration — automate supported interactions.
-5. Automated verification and isolated execution — make the system dependable enough for real engineering work.
-6. Cloud collaboration and commercial features — expand only after the single-user workflow proves valuable.
+1. Project context and source of truth - solve fragmented memory first.
+2. Prompt and task handoffs - reduce repetitive manual work across existing AI tools.
+3. Desktop workspace and Git integration - connect the workflow to real project files.
+4. Model APIs and structured orchestration - automate supported interactions.
+5. Automated verification and isolated execution - make the system dependable enough for real engineering work.
+6. Cloud collaboration and commercial features - expand only after the single-user workflow proves valuable.
 
 The main risk is scope expansion. A universal AI interface, memory system, prompt manager, coding agent, workflow builder, knowledge graph, and SaaS platform are several substantial products combined. Trying to build them simultaneously will slow delivery and make it difficult to identify what actually solves your problem.
 

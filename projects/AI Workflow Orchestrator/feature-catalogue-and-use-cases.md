@@ -13,30 +13,22 @@ The catalogue below covers the core product, advanced capabilities, integrations
 
 Feature priority:
 
--
-
-  P0 - MVP
+- P0 - MVP
 
   &#x20;Essential for the first useful release.
 
 
--
-
-  P1 - Core
+- P1 - Core
 
   &#x20;Build after the MVP works reliably.
 
 
--
-
-  P2 - Advanced
+- P2 - Advanced
 
   &#x20;Valuable after the core workflow is validated.
 
 
--
-
-  P3 - Future
+- P3 - Future
 
   &#x20;Expansion for teams, scale, or commercial maturity.
 

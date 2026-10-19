@@ -506,13 +506,13 @@ Exit criterion: add only features supported by demonstrated user needs and opera
 For a solo developer, I recommend a smaller scope than the full catalogue.
 
 ## MVP scope checklist
-[ ] Project management: Projects, requirements, tasks and decisions.
-[ ] Context engine: Versioned project context and task-specific context packets.
-[ ] Prompt management: Reusable prompts, variables and version history.
-[ ] AI integration: Manual handoff and response import.
-[ ] Knowledge: Markdown storage, full-text search and source links.
-[ ] Integrity: Task history, audit events, backups and recovery.
-[ ] Desktop: Local workspace and authorized project directory selection.
+- [ ] Project management: Projects, requirements, tasks and decisions.
+- [ ] Context engine: Versioned project context and task-specific context packets.
+- [ ] Prompt management: Reusable prompts, variables and version history.
+- [ ] AI integration: Manual handoff and response import.
+- [ ] Knowledge: Markdown storage, full-text search and source links.
+- [ ] Integrity: Task history, audit events, backups and recovery.
+- [ ] Desktop: Local workspace and authorized project directory selection.
 
 After this foundation works on your actual projects, add provider APIs, automated verification, and controlled coding agents. That sequence reduces the risk of building a large integration framework before you have proven that the shared context and handoff workflow solves the original problem.
 

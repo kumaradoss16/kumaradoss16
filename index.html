@@ -761,11 +761,52 @@
           </div>
           <button class="btn-secondary" id="btn-toggle-all-projects" aria-expanded="false"
             style="border-color:var(--orange-btn);color:var(--orange-btn);">
-            VIEW ALL PROJECTS (7) &darr;
+            VIEW ALL PROJECTS &darr;
           </button>
         </div>
 
         <div class="projects-grid" id="projects-grid" role="list">
+
+          <!-- Project — Linux Log Analyzer -->
+          <article class="project-card" role="listitem">
+            <div class="project-card-image">
+              <img src="assets/images/linux-log-analyzer-preview.webp"
+                alt="Linux Log Analyzer security dashboard preview" loading="lazy" decoding="async">
+            </div>
+
+            <div class="project-card-content">
+              <p class="project-id-tag">
+                PROJECT // SEC-001 &bull; 2026 &bull; SECURITY / LINUX
+              </p>
+
+              <h3 class="project-title">Linux Log Analyzer</h3>
+
+              <p class="project-desc">
+                A Python-based tool for analyzing Linux authentication, system, and
+                web server logs to identify failed login attempts, suspicious IP
+                addresses, and potential brute-force attacks.
+              </p>
+
+              <div class="project-tags">
+                <span class="project-tag">Python</span>
+                <span class="project-tag">Linux</span>
+                <span class="project-tag">HTML</span>
+                <span class="project-tag">CSS</span>
+                <span class="project-tag">JavaScript</span>
+              </div>
+
+              <div class="project-btn-group">
+                <button class="btn-case-study" data-project="linux-log-analyzer">
+                  View Case Study
+                </button>
+
+                <a href="https://github.com/kumaradoss16/linux-log-analyzer" class="btn-proj-git" target="_blank"
+                  rel="noopener noreferrer" aria-label="GitHub Repository">
+                  <i class="fa-brands fa-github"></i> GITHUB URL
+                </a>
+              </div>
+            </div>
+          </article>
 
           <!-- Project 01 -->
           <article class="project-card" role="listitem">
@@ -840,7 +881,7 @@
           </article>
 
           <!-- Project 03 -->
-          <article class="project-card" role="listitem">
+          <article class="project-card project-card-extended" style="display:none;" role="listitem">
             <div class="project-card-image">
               <img src="assets/images/http-request-analyzer-preview.webp"
                 alt="HTTP Request Analyzer architecture preview" loading="lazy" decoding="async">

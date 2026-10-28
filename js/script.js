@@ -407,6 +407,53 @@ function initStackFilters() {
 document.addEventListener('DOMContentLoaded', () => {
   // Case Study Data Repository for all 6 projects
   const caseStudiesData = {
+    'linux-log-analyzer': {
+      code: 'PROJECT // SEC-001',
+      title: 'Linux Log Analyzer',
+      subtitle: 'A Python-based log analysis suite for Linux authentication, system, and web server logs.',
+      overview: [
+        { label: 'TYPE', val: 'Security / Log Analysis' },
+        { label: 'ROLE', val: 'Python Developer' },
+        { label: 'STATUS', val: 'Completed' },
+        { label: 'STACK', val: 'Python / Linux' }
+      ],
+      problem: 'Linux authentication, system, and web server logs are spread across multiple files and formats, making it difficult to quickly identify failed login attempts, suspicious IP addresses, and brute-force activity.',
+      objectives: [
+        'Analyze authentication, system, and web server logs from one tool',
+        'Detect failed logins, suspicious IPs, and brute-force attacks',
+        'Generate readable text and structured JSON security reports',
+        'Provide an interactive web dashboard for log exploration'
+      ],
+      architecture: [
+        { type: 'step', text: 'LOG SOURCES (AUTH / SYSTEM / WEB)' },
+        { type: 'arrow', text: '↓' },
+        { type: 'step', text: 'REGEX PARSERS & NORMALIZATION' },
+        { type: 'arrow', text: '↓' },
+        { type: 'step', text: 'ANALYSIS & THREAT DETECTION ENGINE' },
+        { type: 'arrow', text: '↓' },
+        { type: 'step', text: 'TEXT / JSON REPORTS & WEB DASHBOARD' }
+      ],
+      implementation: [
+        { title: 'Multi-Source Parsers', desc: 'Regex-based parsers normalize auth.log, syslog, and Nginx/Apache combined access logs, including gzip-compressed files.' },
+        { title: 'Threat Detection', desc: 'Aggregates failed and successful logins, ranks suspicious IPs and users, and flags brute-force and possible compromise events.' },
+        { title: 'Reporting & Dashboard', desc: 'Exports formatted text and JSON reports and serves a local dashboard with interactive charts and drill-down tables.' }
+      ],
+      technology: ['Python', 'Linux', 'HTML', 'CSS', 'JavaScript'],
+      security: 'Built with security defaults for local use: loopback-bound dashboard, strict content security policy, safe text rendering of log data, and no external dependencies or CDN requests.',
+      challenges: 'Handling heterogeneous log formats and large log volumes while keeping the tool dependency-free and responsive in both the CLI and the browser dashboard.',
+      solution: 'Built a standard-library Python analysis pipeline with modular parsers, an aggregation and detection layer, dual text/JSON report output, and a lightweight vanilla JavaScript dashboard.',
+      results: 'Delivered a zero-dependency tool that parses Linux log sources, surfaces failed logins and brute-force activity, and produces both terminal reports and an interactive security dashboard.',
+      future: [
+        'Add configurable alerting integrations',
+        'Support additional log formats and services',
+        'Add persistent historical trend analysis',
+        'Extend dashboard filtering and export options'
+      ],
+      links: [
+        { label: 'VIEW SOURCE', url: 'https://github.com/kumaradoss16/linux-log-analyzer', primary: true },
+        { label: 'DOCUMENTATION', url: 'https://github.com/kumaradoss16/linux-log-analyzer/blob/main/README.md', primary: false }
+      ]
+    },
     'net-diag': {
       code: 'PROJECT // NET-001',
       title: 'Network Diagnostic API',

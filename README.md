@@ -1,19 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/kumaradoss16">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1800&color=F37726&center=true&vCenter=true&width=640&height=50&lines=Python+Developer;Backend+Developer;System+%26+Network+Engineer;Applied+AI+Engineering;Software+%26+Automation+Builder" alt="Rotating titles: Python Developer, Backend Developer, System and Network Engineer, Applied AI Engineering, Software and Automation Builder" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3200&pause=1600&color=E54415&center=true&vCenter=true&width=720&height=58&lines=Python+Developer;Backend+%26+API+Development;Systems+%26+Networking;Applied+AI+%26+Automation" alt="Python Developer | Backend and API Development | Systems and Networking | Applied AI and Automation" />
 
 # Hi, I'm Kumaradoss
 
 **Python Developer** · **System & Network Engineer**
 
-*Building practical software, backend systems, automation tools, and reliable technical solutions.*
+Building practical software, backend services, automation workflows, and developer tools.
 
-<a href="https://devspirehub.com">DevSpireHub</a> ·
-<a href="https://nexus.devspirehub.com">DevSpire Nexus</a> ·
-<a href="https://portfolio.devspirehub.com">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/kumaradoss-s/">LinkedIn</a>
+[DevSpireHub](https://devspirehub.com) · [DevSpire Nexus](https://nexus.devspirehub.com) · [Portfolio](https://portfolio.devspirehub.com) · [LinkedIn](https://www.linkedin.com/in/kumaradoss-s/)
 
 </div>
 
@@ -21,110 +16,122 @@
 
 ## About Me
 
-I'm a Python Developer with a background in System and Network Engineering. I build practical software, backend applications, automation workflows, and developer-oriented tools. I also work as an **Associate Corporate IT Trainer**, delivering technical training and supporting hands-on technology learning.
+I'm a Python Developer with a background in System and Network Engineering. My work and projects focus on practical software development, backend applications, automation, and applied AI integrations. I also work as an **Associate Corporate IT Trainer**, supporting hands-on technical learning.
 
-- 👨‍💻 **Development:** Python applications, backend services, FastAPI, Flask, REST APIs, SQL
-- ⚙️ **Engineering:** Linux and Windows systems, infrastructure fundamentals, automation
-- 🧠 **Applied AI:** RAG, AI agents, and MCP integrations
-- 🌐 **Networking:** connectivity, diagnostics, and troubleshooting
-- 📚 **Learning:** desktop application development and developer productivity tools
+- **Development:** Python, Flask, FastAPI, REST APIs, SQL, and application development
+- **Systems:** Linux, Windows, infrastructure fundamentals, and troubleshooting
+- **Applied AI:** RAG, AI agents, MCP integrations, and workflow automation
+- **Networking:** Network fundamentals, diagnostics, and connectivity troubleshooting
+- **Current interests:** Local-first software, developer productivity, and reliable AI-powered applications
 
 ---
 
-## My Digital Platforms
+## Digital Platforms
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🌐 DevSpireHub</h3>
-      <p>A technical learning platform covering programming, Python, AI, cybersecurity, networking, automation, Linux, Windows, and practical development guides.</p>
-      <a href="https://devspirehub.com"><b>devspirehub.com →</b></a>
+      <p>Practical technical learning resources covering programming, Python, AI, cybersecurity, networking, automation, Linux, and Windows.</p>
+      <a href="https://devspirehub.com"><b>Explore DevSpireHub →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>🧭 DevSpire Nexus</h3>
-      <p>A technical resource discovery platform focused on AI applications, developer tools, productivity software, and useful technical resources.</p>
-      <a href="https://nexus.devspirehub.com"><b>nexus.devspirehub.com →</b></a>
+      <p>A discovery platform for AI applications, developer tools, productivity software, and useful technical resources.</p>
+      <a href="https://nexus.devspirehub.com"><b>Explore Nexus →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>💼 Developer Portfolio</h3>
-      <p>My professional portfolio featuring my technical background, engineering interests, and selected projects.</p>
-      <a href="https://portfolio.devspirehub.com"><b>portfolio.devspirehub.com →</b></a>
+      <h3>💼 Portfolio</h3>
+      <p>My professional profile, technical background, engineering interests, and selected projects.</p>
+      <a href="https://portfolio.devspirehub.com"><b>View Portfolio →</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-**Languages & Backend** - Python · C · C++ · SQL · Flask · FastAPI · REST APIs · Pydantic
+**Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,flask,fastapi&theme=dark" alt="Python, C, C++, Flask, FastAPI" height="48" />
+Python · C · C++ · SQL · Flask · FastAPI · REST APIs · Pydantic
 
-**Frontend & Web** - HTML5 · CSS3 · JavaScript · React · TypeScript
+<img src="https://skillicons.dev/icons?i=python,c,cpp,flask,fastapi&theme=light" alt="Python, C, C++, Flask, and FastAPI" height="46" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="HTML5, CSS3, JavaScript, React, TypeScript" height="48" />
+**Frontend & Web**
 
-**Database** - SQLite · SQL-based database systems
+HTML5 · CSS3 · JavaScript · React · TypeScript
 
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" height="48" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=light" alt="HTML, CSS, JavaScript, React, and TypeScript" height="46" />
 
-**Systems & Networking** - Linux · Windows · Networking Fundamentals · System Administration Fundamentals · Hardware & Software Troubleshooting · VMware
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=dark" alt="Linux, Windows, VMware" height="48" />
+SQLite · SQL
 
-**Applied AI** - LLM Integration · Retrieval-Augmented Generation (RAG) · AI Agents · Model Context Protocol (MCP) · Workflow Automation · Prompt & Context Engineering
+<img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" height="46" />
 
-<img src="https://skillicons.dev/icons?i=python,n8n&theme=dark" alt="Python and n8n, used for AI workflow automation" height="48" />
+**Systems & Networking**
 
-**Desktop & Developer Tools** - Git · GitHub · VS Code · Tauri · Rust · C# / .NET · WPF · Docker · n8n
+Linux · Windows · VMware · Networking Fundamentals · System Administration · Hardware and Software Troubleshooting
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,tauri,rust,cs,dotnet,docker,n8n&theme=dark" alt="Git, GitHub, VS Code, Tauri, Rust, C Sharp, .NET, Docker, n8n" height="48" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=light" alt="Linux, Windows, and VMware" height="46" />
+
+**Applied AI & Automation**
+
+LLM Integration · Retrieval-Augmented Generation (RAG) · AI Agents · Model Context Protocol (MCP) · Workflow Automation · Prompt and Context Engineering · n8n
+
+<img src="https://skillicons.dev/icons?i=python,n8n&theme=light" alt="Python and n8n" height="46" />
+
+**Desktop & Developer Tools**
+
+Git · GitHub · VS Code · Tauri · Rust · C# · .NET · WPF · Docker
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tauri,rust,cs,dotnet,docker&theme=light" alt="Git, GitHub, VS Code, Tauri, Rust, C Sharp, .NET, and Docker" height="46" />
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Workflow Orchestrator</h3>
-      <p>A local-first platform for coordinating AI-assisted development workflows, project context, and execution.</p>
-      <sub><b>Focus:</b> Applied AI · Developer Workflows</sub><br>
+      <p>A local-first project for coordinating AI-assisted development workflows, project context, and execution.</p>
+      <sub><b>Focus:</b> Applied AI · Developer Workflows</sub><br />
       <a href="https://github.com/kumaradoss16/AI-Workflow-Orchestrator">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📝 PostFlow</h3>
-      <p>A content management and AI-assisted publishing workflow application.</p>
-      <sub><b>Focus:</b> Content Management · AI-Assisted Publishing</sub><br>
+      <p>A content workflow application focused on managing and streamlining social publishing tasks.</p>
+      <sub><b>Focus:</b> Content Workflows · Automation</sub><br />
       <a href="https://github.com/kumaradoss16/PostFlow">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✍️ MarkForge / Markdown Studio</h3>
+      <h3>✍️ Markdown Studio</h3>
       <p>A desktop Markdown editor and document workspace focused on writing and productivity.</p>
-      <sub><b>Focus:</b> Desktop Application · Productivity</sub><br>
+      <sub><b>Focus:</b> Desktop Application · Productivity</sub><br />
       <a href="https://github.com/kumaradoss16/markdown-studio">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏷️ Label Forge</h3>
       <p>A Windows label design, barcode, and printing application.</p>
-      <sub><b>Focus:</b> Windows Desktop · Barcode &amp; Printing</sub><br>
+      <sub><b>Focus:</b> Windows Desktop · Barcode and Printing</sub><br />
       <a href="https://github.com/kumaradoss16/Label-Forge">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📡 Network Diagnostic API</h3>
-      <p>A Python-based API for network connectivity checks and diagnostic operations.</p>
-      <sub><b>Stack:</b> Python · API · Networking</sub><br>
+      <p>A Python API project for network connectivity checks and diagnostic operations.</p>
+      <sub><b>Stack:</b> Python · API · Networking</sub><br />
       <a href="https://github.com/kumaradoss16/network-diagnostic-api">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🐧 Linux Log Analyzer</h3>
       <p>A utility for analyzing Linux authentication logs and identifying potentially suspicious activity.</p>
-      <sub><b>Focus:</b> Linux · Log Analysis</sub><br>
+      <sub><b>Focus:</b> Linux · Log Analysis</sub><br />
       <a href="https://github.com/kumaradoss16/linux-log-analyzer">View repository →</a>
     </td>
   </tr>
@@ -134,24 +141,19 @@ I'm a Python Developer with a background in System and Network Engineering. I bu
 
 ## Education
 
-- 🎓 **MSc** - Materials Science and Technology
-- 🎓 **BSc** - Physics
-- 🖥️ **Advanced Diploma** - System and Network Engineering
-- 🐍 **Diploma** - Python and Flask Framework
+- **MSc** — Materials Science and Technology
+- **BSc** — Physics
+- **Advanced Diploma** — System and Network Engineering
+- **Diploma** — Python and Flask Framework
 
 ---
 
-## Connect With Me
+## Connect
 
-<table>
-  <tr>
-    <td>🐙 <a href="https://github.com/kumaradoss16">GitHub</a></td>
-    <td>💼 <a href="https://www.linkedin.com/in/kumaradoss-s/">LinkedIn</a></td>
-    <td>🌐 <a href="https://devspirehub.com">DevSpireHub</a></td>
-  </tr>
-  <tr>
-    <td>🧭 <a href="https://nexus.devspirehub.com">DevSpire Nexus</a></td>
-    <td>🗂️ <a href="https://portfolio.devspirehub.com">Portfolio</a></td>
-    <td></td>
-  </tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-10243A?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/kumaradoss16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10243A?style=flat&logo=linkedin&logoColor=19BAAF)](https://www.linkedin.com/in/kumaradoss-s/)
+[![DevSpireHub](https://img.shields.io/badge/DevSpireHub-E54415?style=flat&logo=googlechrome&logoColor=FFFFFF)](https://devspirehub.com)
+[![DevSpire Nexus](https://img.shields.io/badge/DevSpire_Nexus-10243A?style=flat&logo=compass&logoColor=19BAAF)](https://nexus.devspirehub.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-536477?style=flat&logo=readme&logoColor=FFFFFF)](https://portfolio.devspirehub.com)
+
+<sub>Learning, building, and documenting practical engineering solutions.</sub>

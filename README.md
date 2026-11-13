@@ -5,7 +5,6 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · kumaradoss16</sub></p>
 <h1>Kumaradoss</h1>
-<h2>Frontend or full-stack engineer</h2>
 <p>I am Associate Corporate IT Trainer| Founder @DevspireHub | System and Network Engineer | Python developer | Web Developer | SAP - FICO, MM</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in India · Building at Balsam Creative Techology</sub></p>

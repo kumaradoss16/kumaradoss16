@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="devspirehubTitle">
+  <title id="devspirehubTitle">DevSpireHub</title>
+  <g fill="none" stroke="#F37726" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 5.5h5.6a2.4 2.4 0 0 1 2.4 2.4V19a2.4 2.4 0 0 0-2.4-2.4H4z"/>
+    <path d="M20 5.5h-5.6a2.4 2.4 0 0 0-2.4 2.4V19a2.4 2.4 0 0 1 2.4-2.4H20z"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="portfolioTitle">
+  <title id="portfolioTitle">Portfolio</title>
+  <g fill="none" stroke="#F37726" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="5" width="18" height="14" rx="2"/>
+    <circle cx="8.6" cy="10.4" r="1.8"/>
+    <path d="M5.6 15.8c.6-1.6 1.7-2.4 3-2.4s2.4.8 3 2.4"/>
+    <path d="M14 9.8h4M14 12.6h4M14 15.4h2.4"/>
+  </g>
+</svg>

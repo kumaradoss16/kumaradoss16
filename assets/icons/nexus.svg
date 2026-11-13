@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="nexusTitle">
+  <title id="nexusTitle">DevSpire Nexus</title>
+  <g fill="none" stroke="#F37726" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="5" r="2"/>
+    <circle cx="5" cy="17.5" r="2"/>
+    <circle cx="19" cy="17.5" r="2"/>
+    <path d="M10.9 6.9 6.1 15.6M13.1 6.9l4.8 8.7M7 17.5h10"/>
+  </g>
+</svg>

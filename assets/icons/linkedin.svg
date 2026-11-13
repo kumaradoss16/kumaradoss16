@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="linkedinTitle">
+  <title id="linkedinTitle">LinkedIn</title>
+  <rect x="2.25" y="2.25" width="19.5" height="19.5" rx="4" fill="none" stroke="#F37726" stroke-width="1.6"/>
+  <path d="M7.4 10.2V17M7.4 7.1v.1M11.2 17v-4.3c0-1.05.85-1.9 1.9-1.9s1.9.85 1.9 1.9V17" fill="none" stroke="#F37726" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

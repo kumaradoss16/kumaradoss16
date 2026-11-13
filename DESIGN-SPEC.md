@@ -1,124 +1,123 @@
 # Design Specification — GitHub Profile README
 
 **Profile:** @kumaradoss16
-**Concept:** Midnight Editorial × Modern Bento Grid
-**Deliverable:** `README.md` + `assets/hero.svg` + `assets/divider.svg`
+**Concept:** Midnight Minimal Bento × Modern Engineering Portfolio
+**Deliverable:** `README.md` + `assets/hero.svg` + `assets/divider.svg` + `assets/icons/*.svg`
 
 ---
 
 ## 1. Design direction
 
-A premium engineering portfolio rather than a badge wall. The README pairs a dark editorial banner and restrained typography with modular information blocks: a numbered section structure, compact focus cards, a spec-sheet stack, and a two-column project grid.
+A premium engineering portfolio rather than a badge wall. The README pairs a fixed dark editorial banner and a restrained typographic system with modular, scannable blocks: numbered sections, four focus cards, a grouped technology sheet, and table-based project and platform showcases.
 
-The design communicates backend credibility, systems maturity, and product-building range. Applied AI is presented as a supporting engineering interest, not as research or ML specialization.
+The document communicates three things in the first two screens: Python backend engineering, a system and network background, and applied AI as an engineering practice. Statistics, counters, trophies, streak cards, and contribution graphs are deliberately absent.
 
 ## 2. Color system
 
-| Token | Hex | Use in the README |
+| Token | Hex | Use |
 |---|---|---|
-| Midnight | `#0B0F14` | Hero ground, analytics image background |
-| Deep Surface | `#111821` | Hero index panel |
-| Elevated Surface | `#17212D` | Hero grid lines, badge chips |
-| Border | `#263342` | Hairlines, hero panel border, divider |
-| Primary Text | `#F1F5F9` | Name, card titles, primary copy |
-| Secondary Text | `#B8C3D1` | Descriptions |
-| Muted Text | `#8291A3` | Metadata, eyebrow labels |
-| Signal Orange | `#F37726` | Identity accent, rules, hero index marker |
-| Soft Orange | `#FFAA70` | Reserved for secondary emphasis |
-| Technical Teal | `#35C6B0` | Reserved for a single technical status accent |
-| Editorial Blue | `#7CA8D8` | Reserved |
+| Background | `#0B0F14` | Hero ground, typing-animation ground |
+| Surface | `#151B23` | Hero gradient start |
+| Elevated Surface | `#1B2531` | Hero index panel |
+| Border | `#293342` | Hairlines, panel border, divider, icon strokes |
+| Primary Text | `#F1F5F9` | Name, titles, primary copy |
+| Secondary Text | `#A7B2C0` | Hero tagline, supporting copy |
+| Muted Text | `#778496` | Eyebrows, metadata, index numbers |
+| Orange Accent | `#F37726` | Primary identity accent, role line, icons |
+| Teal Accent | `#35C6B0` | Single role dot in the hero |
 
-Orange is the only recognizable accent. Teal and blue are not used in the current build, so the palette stays disciplined. Technology icons keep their own brand colors, which is intentional and limited to the stack section.
+Orange carries the identity. Teal appears once. Technology icons keep their vendor colors by design; they are the only multicolor element.
 
 ### Contrast (WCAG)
 
 | Pair | Ratio |
 |---|---|
 | `#F1F5F9` on `#0B0F14` | 17.54:1 |
-| `#B8C3D1` on `#0B0F14` | 10.77:1 |
-| `#8291A3` on `#0B0F14` | 5.97:1 |
+| `#A7B2C0` on `#0B0F14` | 8.94:1 |
+| `#778496` on `#0B0F14` | 5.06:1 |
 | `#F37726` on `#0B0F14` | 6.84:1 |
-| `#8291A3` on `#111821` | 5.55:1 |
+| `#A7B2C0` on `#1B2531` | 7.21:1 |
 
-All passes meet WCAG AA for normal text.
+All pairs pass WCAG AA for normal text.
 
-## 3. Typography
+## 3. Section structure
 
-| Layer | Direction |
-|---|---|
-| Name | Inter / Segoe UI / system sans, 66px bold (SVG) |
-| Eyebrow labels | JetBrains Mono / Consolas / monospace, 11–16px, tracked |
-| Positioning line | Inter 20px, `#B8C3D1` |
-| Section headings | GitHub-rendered H2, `01 / About` numbering |
-| Card titles | Bold body text or H3 for featured projects |
-| Metadata | `<sub>` labels and `<code>` chips |
-| Descriptions | GitHub body text, compact sentences |
+| # | Section | Purpose | Narrow-screen behavior |
+|---|---|---|---|
+| — | Hero | Name, both titles, tagline, focus index | Scales as a banner; name and tagline remain legible |
+| — | Typing header | Five rotating professional identities | Centered 440×44 asset scales to container width |
+| — | Link strip | GitHub, LinkedIn, Email, DevSpireHub | Wraps naturally |
+| 01 | About | Five short positioning statements + factual metadata | Single column, no overflow |
+| 02 | Engineering Focus | Four bento cards in a 2×2 table | Table scrolls horizontally, GitHub behavior |
+| 03 | Technical Stack | Six required categories | Stacked rows; icons and chips wrap |
+| 04 | Selected Projects | Six repositories in a two-column table | Table scrolls horizontally; text remains intact |
+| 05 | Digital Platforms | Three clearly separated platform rows with icons | Table scrolls horizontally; rows stay distinct |
+| 06 | Education | Four compact credentials | Single column |
+| 07 | Connect | Five icon-labelled links | Single wrapping paragraph |
 
-No custom font is loaded by the README. The SVG uses a system font stack; GitHub body text uses GitHub's own typography. This avoids renderer-specific font dependencies.
+Sections are separated by one reusable divider asset, not per-section artwork.
 
-## 4. Layout map
+## 4. Visual hierarchy
 
-| Section | Treatment | Narrow-screen behavior |
-|---|---|---|
-| Hero | 1000×340 SVG, full width | Scales as a banner; name remains legible |
-| 01 About | Single column + compact facts block | Fits without horizontal scroll |
-| 02 Engineering Focus | 2×2 pipe table (bento cards) | Table scrolls horizontally, GitHub behavior |
-| 03 Technical Stack | Six grouped icon rows | Icons wrap within the row |
-| 04 Selected Projects | Two featured entries + two 2×2 grids | Featured entries stack; grids scroll horizontally |
-| 05 Digital Platforms | Three-column link cards | Table scrolls horizontally, GitHub behavior |
-| 06 GitHub Analytics | Two full-width dynamic cards | Fits without scroll |
-| 07 Closing | Blockquote + identity line + links | Fits without scroll |
+1. Hero name and primary title.
+2. Rotating role line.
+3. Section number and title.
+4. Project or platform name.
+5. One-sentence description.
+6. Technology labels.
+7. Direct link.
+8. Metadata in `<sub>` and mono labels.
 
-Sections are separated by the same 16px divider asset (orange-tipped hairline). The divider is reused, not recreated per section.
+## 5. Assets
 
-## 5. Visual hierarchy
+**Custom assets (8):**
 
-1. Hero name and role.
-2. Section number and title.
-3. Card or project title.
-4. One-sentence value proposition.
-5. Technology chips.
-6. Repository or platform link.
-7. Metadata in `<sub>` and mono labels.
-
-The eye should resolve identity, focus, stack, and work within the first two screens.
-
-## 6. Asset strategy
-
-**Custom assets (2):**
-
-- `assets/hero.svg` — identity banner. Editorial left column, mono index panel on the right, grid motif, orange edge bar.
-- `assets/divider.svg` — reusable section rule with an 88px orange segment.
+- `assets/hero.svg` — 1000×340 identity banner: orange edge bar, grid motif, left editorial column, right focus index.
+- `assets/divider.svg` — 1000×16 rule with an 88px orange segment.
+- `assets/icons/github.svg`, `linkedin.svg`, `devspirehub.svg`, `nexus.svg`, `portfolio.svg` — 24×24 monoline icons, 18px in platform rows and 16px in Connect.
 
 **Third-party images:**
 
-- `skillicons.dev` for language and framework icons, grouped by category and limited to six per row.
-- `shields.io` flat-square badges in the Midnight surface color for technologies without a suitable icon (Pydantic, REST APIs, SQL, WebView2, WPF, n8n).
-- `github-profile-summary-cards` for live contribution and language data.
+- `readme-typing-svg.demolab.com` — animated role line, orange on the background color, 440×44.
+- `skillicons.dev` — six grouped technology rows at a consistent 40px height.
 
-**Deliberately excluded:** star/fork/user counters, trophies, typing headers, snake animations, fake terminal output, proficiency bars, and large badge walls.
+No shields.io badges, statistics services, counters, or trophies are used. Pydantic, REST APIs, SQL, VMware, MCP, WPF, and n8n have no suitable skillicon, so they appear as native `<code>` chips instead of added badge dependencies.
 
-## 7. GitHub compatibility decisions
+## 6. Typing header
 
+```
+https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18
+&duration=4000&pause=1200&color=F37726&background=0B0F14&center=true&vCenter=true
+&width=440&height=44&lines=Python+Developer;Backend+Developer;System+%26+Network+Engineer;
+Applied+AI+Engineering;Software+%26+Automation+Builder
+```
+
+- One slow, readable line at a time; the full five-line loop is 26 seconds.
+- Dark ground so orange stays legible in both GitHub themes.
+- `%26` encodes the ampersand in `System & Network Engineer` and `Software & Automation Builder`.
+- Alt text lists all five roles for assistive technology and image-failure fallback.
+
+## 7. GitHub compatibility
+
+- Markdown plus GitHub-supported HTML only: `<p>`, `<a>`, `<img>`, `<table>`, `<tr>`, `<td>`, `<sub>`, `<code>`, `<strong>`, `<br/>`.
 - No CSS Grid, Flexbox, JavaScript, `<style>`, iframes, or external stylesheets.
-- Markdown plus GitHub-supported HTML only: `<p>`, `<a>`, `<img>`, `<table>`, `<sub>`, `<code>`, `<br/>`.
-- GitHub strips background-color styling, so "bento" surfaces are expressed through table structure, borders, numbered labels, and the SVG banner rather than CSS cards.
-- GitHub does not reflow multi-column tables. To avoid page-level overflow on phones, About, Stack, and Analytics are single-column; the designed grids (Focus and Projects) and the platform cards remain tabular and scroll horizontally on very narrow screens.
-- Relative asset paths assume `README.md` and `assets/` sit at the repository root.
-- The hero is a fixed dark banner in both GitHub themes. This is intentional brand artwork, not a theme-aware image.
+- GitHub strips arbitrary styles, so card structure is expressed through table borders, numbered labels, and the SVG banner.
+- Multi-column tables scroll horizontally on narrow screens; every section above and below them fits without page-level overflow.
+- Relative asset paths assume `README.md` and `assets/` are at the repository root.
+- The hero is a fixed dark asset in both themes. The typing header matches its ground so the two read as one band.
 
 ## 8. Accessibility
 
-- Every content image has descriptive alt text; dividers use empty alt text.
+- Every content image has descriptive alt text; dividers and decorative platform icons use empty alt text beside a text label.
 - The hero SVG includes `<title>` and `<desc>`.
-- All text/background pairs in the artwork meet AA contrast.
-- Links use descriptive labels (`View repository`, project names, platform names).
-- Color is never the only carrier of meaning.
+- All artwork text meets AA contrast.
+- Links use descriptive labels (`View repository`, platform names).
+- Color never carries meaning alone; every accent is paired with text.
 
 ## 9. Maintenance
 
-1. Update hero copy by editing text nodes in `assets/hero.svg`; keep the 1000×340 canvas and left/right split.
-2. If a stats service fails, replace or remove its `<img>`; the README does not depend on any stats image for its structure.
-3. Keep project descriptions aligned with each repository's README. Do not add production, scale, or adoption claims.
-4. Reuse `assets/divider.svg` between sections rather than adding new artwork.
-5. Keep the section numbering sequential if a section is added or removed.
+1. Edit hero copy by changing the text nodes in `assets/hero.svg`; keep the 1000×340 canvas.
+2. Change project copy only when the repository README supports it. No production, scale, or adoption claims.
+3. Keep the six stack categories aligned with the brief; add a technology only when it reflects real project exposure.
+4. Reuse `assets/divider.svg`; add a section only if it earns its place.
+5. Re-number sections sequentially after structural changes.

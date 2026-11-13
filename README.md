@@ -139,15 +139,6 @@ Git · GitHub · VS Code · Tauri · Rust · C# · .NET · WPF · Docker
 
 ---
 
-## Education
-
-- **MSc** — Materials Science and Technology
-- **BSc** — Physics
-- **Advanced Diploma** — System and Network Engineering
-- **Diploma** — Python and Flask Framework
-
----
-
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-10243A?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/kumaradoss16)

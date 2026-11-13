@@ -1,114 +1,101 @@
-<div align="center">
+# Kumaradoss
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · kumaradoss16</sub></p>
-<h1>Kumaradoss</h1>
-<p>I am Associate Corporate IT Trainer| Founder @DevspireHub | System and Network Engineer | Python developer | Web Developer | SAP - FICO, MM</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in India · Building at Balsam Creative Techology</sub></p>
-<p><a href="https://github.com/kumaradoss16">GitHub</a> &nbsp;·&nbsp; <a href="https://devspirehub.com">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/76904568?u=d60a23812abd0087bfb3d0a42afd46d784a5f3db&amp;v=4" width="180" alt="Kumaradoss GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+**Python Developer · System & Network Engineer**
 
-<h2>What teams can evaluate quickly</h2>
+Building practical software, backend systems, automation tools, and reliable technical solutions.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>27 repositories · 7 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>1,174 contributions · 151 active days</p></td>
-</tr>
-</table>
+---
 
-<p><sub>I am Associate Corporate IT Trainer| Founder @DevspireHub | System and Network Engineer | Python developer | Web Developer | SAP - FICO, MM</sub></p>
+## About Me
 
-<h2>Proof at a glance</h2>
+I'm a Python Developer and System & Network Engineering professional interested in backend development, software engineering, automation, and applied AI.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>27</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>1,174</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+My technical interests include Python, FastAPI, Flask, REST APIs, SQL, Linux, Windows administration, networking, RAG systems, AI agents, and MCP.
+
+I also work as an Associate Corporate IT Trainer, with an academic background in Materials Science and Physics.
+
+I enjoy developing practical applications, exploring engineering concepts, and building tools that solve real-world problems.
+
+---
+
+## Digital Presence
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Kumaradoss GitHub proof metrics" />
-</picture>
+  <a href="https://devspirehub.com">
+    <img src="https://img.shields.io/badge/DEVSPIREHUB-Learn%20%26%20Build-F37726?style=for-the-badge&labelColor=0B0F14" alt="DevSpireHub"/>
+  </a>
+  <a href="https://nexus.devspirehub.com">
+    <img src="https://img.shields.io/badge/DEVSPIRE%20NEXUS-Discover%20Resources-F37726?style=for-the-badge&labelColor=0B0F14" alt="DevSpire Nexus"/>
+  </a>
+  <a href="https://portfolio.devspirehub.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-F37726?style=for-the-badge&labelColor=0B0F14" alt="Developer Portfolio"/>
+  </a>
 </p>
 
-<h2>Selected work</h2>
+| Platform | Purpose |
+|---|---|
+| [DevSpireHub](https://devspirehub.com) | Programming tutorials, technical guides, and practical learning resources. |
+| [DevSpire Nexus](https://nexus.devspirehub.com) | Discover AI applications, developer tools, and technical resources. |
+| [Developer Portfolio](https://portfolio.devspirehub.com) | My professional profile and selected engineering work. |
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&repos=kumaradoss16%2FNetworking%2Ckumaradoss16%2Fcpu-scheduling-algorithms%2Ckumaradoss16%2Fnetwork-diagnostic-api%2Ckumaradoss16%2Fpython-learning&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&repos=kumaradoss16%2FNetworking%2Ckumaradoss16%2Fcpu-scheduling-algorithms%2Ckumaradoss16%2Fnetwork-diagnostic-api%2Ckumaradoss16%2Fpython-learning&v=recruiter-projects-1&mode=dark" width="100%" alt="Kumaradoss selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/kumaradoss16/Networking">Networking</a></h3>
-<p>A hands-on collection of networking projects covering BGP routing, VLAN configuration, DHCP server setup, WAN setup, VPN connection verification, and</p>
-<p><sub>Python · ⭐ 2 · 🍴 0</sub></p>
-<p><a href="https://github.com/kumaradoss16/Networking">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/kumaradoss16/cpu-scheduling-algorithms">cpu-scheduling-algorithms</a></h3><p>Python implementations of CPU Scheduling Algorithms, including FCFS, SJF, Priority Scheduling, Round Robin, and more, with documentation, examples, an</p><p><sub>Python · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/kumaradoss16/network-diagnostic-api">network-diagnostic-api</a></h3><p>Network Diagnostic API is a Python/FastAPI backend that provides REST endpoints for network troubleshooting, including ping, DNS lookup, TCP port chec</p><p><sub>Python · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/kumaradoss16/python-learning">python-learning</a></h3><p>A comprehensive Python learning repository covering core concepts, advanced features, data structures and algorithms, problem-solving, testing, type h</p><p><sub>Python · ⭐ 1</sub></p></td>
-</tr>
-</table>
+## Technical Stack
 
-<h2>Technical toolkit</h2>
+**Languages & Backend**
+
+`Python` `Flask` `FastAPI` `REST APIs` `Pydantic`
+
+**Frontend & Web**
+
+`HTML` `CSS` `JavaScript` `React` `TypeScript`
+
+**Database**
+
+`SQL` `SQLite`
+
+**Systems & Networking**
+
+`Linux` `Windows` `TCP/IP` `DNS` `DHCP` `Networking`
+
+**Applied AI**
+
+`RAG` `AI Agents` `MCP` `Workflow Automation` `LLM Integration`
+
+**Desktop & Developer Tools**
+
+`Tauri` `Rust` `C#` `.NET` `WPF` `Git` `GitHub` `Docker` `n8n`
+
+---
+
+## Featured Engineering Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [AI Workflow Orchestrator](https://github.com/kumaradoss16/AI-Workflow-Orchestrator) | Local-first AI workflow coordination and execution. | Python · FastAPI · Tauri |
+| [PostFlow](https://github.com/kumaradoss16/PostFlow) | Content management and AI-assisted publishing workflows. | Python · FastAPI · React · TypeScript |
+| [MarkForge](https://github.com/kumaradoss16/markdown-studio) | Desktop Markdown editor and document workspace. | JavaScript · WebView2 |
+| [Label Forge](https://github.com/kumaradoss16/Label-Forge) | Windows label design, barcode, and printing application. | C# · .NET · WPF |
+| [Network Diagnostic API](https://github.com/kumaradoss16/network-diagnostic-api) | API for network connectivity and diagnostic checks. | Python · FastAPI |
+| [Linux Log Analyzer](https://github.com/kumaradoss16/linux-log-analyzer) | Linux authentication log analysis and suspicious activity detection. | Python · JavaScript |
+
+---
+
+## Education
+
+- MSc — Materials Science and Technology
+- BSc — Physics
+- Advanced Diploma — System and Network Engineering
+- Diploma — Python and Flask Framework
+
+---
+
+## Connect
+
+[GitHub](https://github.com/kumaradoss16) · [LinkedIn](https://www.linkedin.com/in/kumaradoss-s/) · [DevSpireHub](https://devspirehub.com) · [DevSpire Nexus](https://nexus.devspirehub.com) · [Portfolio](https://portfolio.devspirehub.com)
+
+---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kumaradoss technology stack" />
-</picture>
+  <sub>Learn. Build. Explore. Master Technology.</sub>
 </p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>48% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>23% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Kumaradoss contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/kumaradoss16">GitHub</a><br /><a href="https://devspirehub.com">Website</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Kumaradoss · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

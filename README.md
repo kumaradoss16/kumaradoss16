@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:1E1B3A,100:A78BFA&height=130&section=header&text=Kumaradoss&fontSize=46&fontColor=F0F3F6&fontAlignY=42&desc=Python%20Developer%20%C2%B7%20System%20%26%20Network%20Engineer&descSize=16&descColor=AAB4C0&descAlignY=68" alt="Kumaradoss — Python Developer and System and Network Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:1E1B3A,100:A78BFA&height=130&section=header&text=Kumaradoss&fontSize=46&fontColor=F0F3F6&fontAlignY=42&desc=Python%20Developer%20%C2%B7%20System%20%26%20Network%20Engineer&descSize=16&descColor=AAB4C0&descAlignY=68" alt="Kumaradoss - Python Developer and System and Network Engineer" width="100%" />
 
 <a href="https://github.com/kumaradoss16">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=A78BFA&center=true&vCenter=true&width=640&height=45&lines=Python+Developer;Backend+Application+Developer;System+%26+Network+Engineer;Applied+AI+Engineering;Software+%26+Automation+Builder" alt="Rotating titles: Python Developer, Backend Application Developer, System and Network Engineer, Applied AI Engineering, Software and Automation Builder" />
@@ -65,7 +65,7 @@ I'm a Python Developer with a background in System and Network Engineering. My w
 
 ## Technical Stack
 
-<sub>Grouped by area of work and exposure — not a proficiency ranking.</sub>
+<sub>Grouped by area of work and exposure - not a proficiency ranking.</sub>
 
 <table>
   <tr>
@@ -161,8 +161,8 @@ I'm a Python Developer with a background in System and Network Engineering. My w
 |---|---|
 | **MSc** | Materials Science and Technology |
 | **BSc** | Physics |
-| **Advanced Diploma** | System and Network Engineering — VKR Solutions |
-| **Diploma** | Python and Flask Framework — Ocean Academy |
+| **Advanced Diploma** | System and Network Engineering - VKR Solutions |
+| **Diploma** | Python and Flask Framework - Ocean Academy |
 
 <sub>Professional certificates (Cisco, Google/Coursera): <a href="https://www.credly.com/users/kumaradoss-s/badges/credly">Credly badge wallet</a></sub>
 

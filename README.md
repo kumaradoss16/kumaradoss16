@@ -57,27 +57,27 @@ I'm a Python Developer with a background in System and Network Engineering. I bu
 
 ## Technical Skills
 
-**Languages & Backend** — Python · C · C++ · SQL · Flask · FastAPI · REST APIs · Pydantic
+**Languages & Backend** - Python · C · C++ · SQL · Flask · FastAPI · REST APIs · Pydantic
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,flask,fastapi&theme=dark" alt="Python, C, C++, Flask, FastAPI" height="48" />
 
-**Frontend & Web** — HTML5 · CSS3 · JavaScript · React · TypeScript
+**Frontend & Web** - HTML5 · CSS3 · JavaScript · React · TypeScript
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="HTML5, CSS3, JavaScript, React, TypeScript" height="48" />
 
-**Database** — SQLite · SQL-based database systems
+**Database** - SQLite · SQL-based database systems
 
 <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" height="48" />
 
-**Systems & Networking** — Linux · Windows · Networking Fundamentals · System Administration Fundamentals · Hardware & Software Troubleshooting · VMware
+**Systems & Networking** - Linux · Windows · Networking Fundamentals · System Administration Fundamentals · Hardware & Software Troubleshooting · VMware
 
 <img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=dark" alt="Linux, Windows, VMware" height="48" />
 
-**Applied AI** — LLM Integration · Retrieval-Augmented Generation (RAG) · AI Agents · Model Context Protocol (MCP) · Workflow Automation · Prompt & Context Engineering
+**Applied AI** - LLM Integration · Retrieval-Augmented Generation (RAG) · AI Agents · Model Context Protocol (MCP) · Workflow Automation · Prompt & Context Engineering
 
 <img src="https://skillicons.dev/icons?i=python,n8n&theme=dark" alt="Python and n8n, used for AI workflow automation" height="48" />
 
-**Desktop & Developer Tools** — Git · GitHub · VS Code · Tauri · Rust · C# / .NET · WPF · Docker · n8n
+**Desktop & Developer Tools** - Git · GitHub · VS Code · Tauri · Rust · C# / .NET · WPF · Docker · n8n
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,tauri,rust,cs,dotnet,docker,n8n&theme=dark" alt="Git, GitHub, VS Code, Tauri, Rust, C Sharp, .NET, Docker, n8n" height="48" />
 
@@ -134,10 +134,10 @@ I'm a Python Developer with a background in System and Network Engineering. I bu
 
 ## Education
 
-- 🎓 **MSc** — Materials Science and Technology
-- 🎓 **BSc** — Physics
-- 🖥️ **Advanced Diploma** — System and Network Engineering
-- 🐍 **Diploma** — Python and Flask Framework
+- 🎓 **MSc** - Materials Science and Technology
+- 🎓 **BSc** - Physics
+- 🖥️ **Advanced Diploma** - System and Network Engineering
+- 🐍 **Diploma** - Python and Flask Framework
 
 ---
 

@@ -1,136 +1,115 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Kumaradoss S — Python Developer. Backend systems, developer tools, and applied AI." width="100%" />
-</p>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · kumaradoss16</sub></p>
+<h1>Kumaradoss</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>I am Associate Corporate IT Trainer| Founder @DevspireHub | System and Network Engineer | Python developer | Web Developer | SAP - FICO, MM</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in India · Building at Balsam Creative Techology</sub></p>
+<p><a href="https://github.com/kumaradoss16">GitHub</a> &nbsp;·&nbsp; <a href="https://devspirehub.com">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/76904568?u=d60a23812abd0087bfb3d0a42afd46d784a5f3db&amp;v=4" width="180" alt="Kumaradoss GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>27 repositories · 7 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,174 contributions · 151 active days</p></td>
+</tr>
+</table>
+
+<p><sub>I am Associate Corporate IT Trainer| Founder @DevspireHub | System and Network Engineer | Python developer | Web Developer | SAP - FICO, MM</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>27</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,174</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/kumaradoss16">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kumaradoss-s/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:kumaradoss.py@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://devspirehub.com">DevSpireHub</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Kumaradoss GitHub proof metrics" />
+</picture>
 </p>
 
-<br/>
+<h2>Selected work</h2>
 
-## 01 / About
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&repos=kumaradoss16%2FNetworking%2Ckumaradoss16%2Fcpu-scheduling-algorithms%2Ckumaradoss16%2Fnetwork-diagnostic-api%2Ckumaradoss16%2Fpython-learning&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&repos=kumaradoss16%2FNetworking%2Ckumaradoss16%2Fcpu-scheduling-algorithms%2Ckumaradoss16%2Fnetwork-diagnostic-api%2Ckumaradoss16%2Fpython-learning&v=recruiter-projects-1&mode=dark" width="100%" alt="Kumaradoss selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/kumaradoss16/Networking">Networking</a></h3>
+<p>A hands-on collection of networking projects covering BGP routing, VLAN configuration, DHCP server setup, WAN setup, VPN connection verification, and</p>
+<p><sub>Python · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/kumaradoss16/Networking">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<p>I'm a <strong>Python developer</strong> focused on backend engineering, REST APIs, automation, and practical developer tools. Most of my work is <strong>local-first</strong>: Python and FastAPI services behind desktop shells, explicit data contracts with Pydantic, and workflows that keep a human in control of generated output.</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/kumaradoss16/cpu-scheduling-algorithms">cpu-scheduling-algorithms</a></h3><p>Python implementations of CPU Scheduling Algorithms, including FCFS, SJF, Priority Scheduling, Round Robin, and more, with documentation, examples, an</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/kumaradoss16/network-diagnostic-api">network-diagnostic-api</a></h3><p>Network Diagnostic API is a Python/FastAPI backend that provides REST endpoints for network troubleshooting, including ping, DNS lookup, TCP port chec</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/kumaradoss16/python-learning">python-learning</a></h3><p>A comprehensive Python learning repository covering core concepts, advanced features, data structures and algorithms, problem-solving, testing, type h</p><p><sub>Python · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-<p>Applied AI is a supporting interest rather than a research focus — RAG pipelines, agentic workflows, and MCP integrations implemented as engineering patterns, with schema validation and deterministic fallbacks.</p>
-
-<p>Alongside development, I work as an <strong>Associate Corporate IT Trainer</strong>, teaching programming, Linux, and networking. That systems background shapes how I build, test, and troubleshoot software.</p>
-
-<p><sub><strong>ROLE</strong></sub> &nbsp;Associate Corporate IT Trainer<br/>
-<sub><strong>FOCUS</strong></sub> &nbsp;Python backend · automation · developer tools<br/>
-<sub><strong>BUILDING</strong></sub> &nbsp;Local-first tools and LLM engineering patterns<br/>
-<sub><strong>BASED IN</strong></sub> &nbsp;Puducherry, India<br/>
-<sub><strong>EDUCATION</strong></sub> &nbsp;MSc Materials Science &amp; Technology · BSc Physics · Advanced Diploma, System &amp; Network Engineering · Diploma, Python &amp; Flask Framework</p>
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-## 02 / Engineering Focus
-
-| <sub>01 / BACKEND</sub><br/><br/><strong>Backend Engineering</strong> | <sub>02 / APPLIED AI</sub><br/><br/><strong>Applied AI Systems</strong> |
-|:--|:--|
-| Python services and REST APIs with explicit schemas, validation, and structured error handling.<br/><br/><code>Python</code> <code>Flask</code> <code>FastAPI</code> <code>Pydantic</code> | RAG, agentic workflows, and MCP integrations built around validation and deterministic fallbacks.<br/><br/><code>RAG</code> <code>AI agents</code> <code>MCP</code> <code>Workflow automation</code> |
-| <sub>03 / TOOLING</sub><br/><br/><strong>Developer Tools</strong> | <sub>04 / SYSTEMS</sub><br/><br/><strong>Systems &amp; Networking</strong> |
-| Desktop and local-first applications that automate repetitive work and keep data on the machine.<br/><br/><code>Tauri</code> <code>Rust</code> <code>C#</code> <code>.NET</code> <code>WebView2</code> | Linux, Windows, and network fundamentals applied to diagnostics, troubleshooting, and automation.<br/><br/><code>Linux</code> <code>Windows</code> <code>Networking</code> <code>Docker</code> |
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-## 03 / Technical Stack
-
-<sub><strong>LANGUAGES &amp; BACKEND</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=py,flask,fastapi" height="40" alt="Python, Flask, FastAPI" /> <img src="https://img.shields.io/badge/Pydantic-17212D?style=flat-square&amp;logo=pydantic&amp;logoColor=F37726" height="24" alt="Pydantic" /> <img src="https://img.shields.io/badge/REST_APIs-17212D?style=flat-square" height="24" alt="REST APIs" />
-
-<sub><strong>FRONTEND &amp; UI</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" height="40" alt="HTML, CSS, JavaScript, React, TypeScript" />
-
-<sub><strong>DATABASES</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /> <img src="https://img.shields.io/badge/SQL-17212D?style=flat-square" height="24" alt="SQL" />
-
-<sub><strong>APPLIED AI</strong></sub><br/>
-<code>RAG</code> <code>AI agents</code> <code>MCP</code> <code>LLM integration</code> <code>Workflow automation</code>
-
-<sub><strong>DESKTOP &amp; SYSTEMS</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=tauri,rust,cs,dotnet" height="40" alt="Tauri, Rust, C#, .NET" /> <img src="https://img.shields.io/badge/WebView2-17212D?style=flat-square&amp;logo=microsoftedge&amp;logoColor=F37726" height="24" alt="WebView2" /> <img src="https://img.shields.io/badge/WPF-17212D?style=flat-square" height="24" alt="WPF" />
-
-<sub><strong>TOOLS &amp; PLATFORMS</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode" height="40" alt="Linux, Windows, Git, GitHub, Docker, VS Code" /> <img src="https://img.shields.io/badge/n8n-17212D?style=flat-square&amp;logo=n8n&amp;logoColor=F37726" height="24" alt="n8n" />
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-## 04 / Selected Projects
-
-<sub><strong>FEATURED</strong></sub>
-
-### [01 / PostFlow](https://github.com/kumaradoss16/PostFlow)
-
-A single-user, local-first desktop application for drafting source content, managing platform variants, AI-assisted generation, revision approval, and scheduled publishing. Built as a strict modular monolith with a Python backend, a React interface, and a Tauri desktop shell.
-
-<code>Python</code> <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>Rust</code>
-
-[Repository →](https://github.com/kumaradoss16/PostFlow)
-
----
-
-### [02 / LLM Engineering Patterns](https://github.com/kumaradoss16/llm-engineering-patterns)
-
-A test-driven collection of LLM engineering patterns — classification, extraction, summarization, semantic search, and retrieval-augmented generation — with Pydantic-validated outputs, token and latency telemetry, and deterministic fallbacks against local Ollama models.
-
-<code>Python</code> <code>Pydantic</code> <code>Ollama</code> <code>RAG</code> <code>pytest</code>
-
-[Repository →](https://github.com/kumaradoss16/llm-engineering-patterns)
-
-<br/>
-
-| <sub>03 / DESKTOP TOOLING</sub><br/><br/>**[MarkForge — Markdown Studio](https://github.com/kumaradoss16/markdown-studio)** | <sub>04 / DESIGN TOOLING</sub><br/><br/>**[LabelForge Studio](https://github.com/kumaradoss16/labelforge)** |
-|:--|:--|
-| A local-first desktop Markdown workspace with tabbed editing, live GFM preview, PDF export, revision history, and review-gated GitHub publishing.<br/><br/><code>JavaScript</code> <code>WebView2</code> <code>Tauri</code> <code>C++</code><br/><br/>[View repository →](https://github.com/kumaradoss16/markdown-studio) | A label design studio for desktop and tablet, covering template presets, barcode generation, and print workflows.<br/><br/><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Express</code><br/><br/>[View repository →](https://github.com/kumaradoss16/labelforge) |
-
-<br/>
-
-| <sub>05 / BACKEND &amp; NETWORKING</sub><br/><br/>**[Network Diagnostic API](https://github.com/kumaradoss16/network-diagnostic-api)** | <sub>06 / SECURITY TOOLING</sub><br/><br/>**[Linux Log Analyzer](https://github.com/kumaradoss16/linux-log-analyzer)** |
-|:--|:--|
-| A FastAPI service exposing ping, DNS, TCP port, HTTP/HTTPS, and latency checks as validated REST endpoints, with structured errors and optional private-target blocking.<br/><br/><code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>httpx</code><br/><br/>[View repository →](https://github.com/kumaradoss16/network-diagnostic-api) | A zero-dependency Python CLI and local web dashboard for Linux auth, system, and web logs, with brute-force detection, compromise indicators, and text or JSON report export.<br/><br/><code>Python</code> <code>stdlib</code> <code>Vanilla JS</code><br/><br/>[View repository →](https://github.com/kumaradoss16/linux-log-analyzer) |
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-## 05 / Digital Platforms
-
-| [**DevSpireHub**](https://devspirehub.com) | [**DevSpire Nexus**](https://nexus.devspirehub.com) | [**Portfolio**](https://portfolio.devspirehub.com) |
-|:--|:--|:--|
-| Technical resources on programming, networking, automation, and practical development. | A curated platform for discovering AI tools, models, and developer resources. | Selected engineering work, project write-ups, and a developer profile. |
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-## 06 / GitHub Analytics
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaradoss16&amp;theme=github_dark" alt="GitHub profile summary for kumaradoss16: contribution activity, repositories, and account age" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kumaradoss technology stack" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>48% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumaradoss16&amp;theme=github_dark" alt="Top languages by repository: Python, TypeScript, HTML, and JavaScript" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kumaradoss16&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76904568%3Fu%3Dd60a23812abd0087bfb3d0a42afd46d784a5f3db%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Kumaradoss contribution activity" />
+</picture>
 </p>
 
-<br/>
+<hr />
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/kumaradoss16">GitHub</a><br /><a href="https://devspirehub.com">Website</a></td>
+</tr>
+</table>
 
-## 07 / Closing
-
-> Engineering practical software. Building tools that solve real problems.
-
-**Kumaradoss S** — Python Developer · Puducherry, India
-
-[GitHub](https://github.com/kumaradoss16) · [LinkedIn](https://www.linkedin.com/in/kumaradoss-s/) · [Email](mailto:kumaradoss.py@gmail.com) · [DevSpireHub](https://devspirehub.com)
+<p align="center"><sub>Kumaradoss · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

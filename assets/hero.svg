@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Kumaradoss S — Python Developer</title>
+  <desc id="heroDesc">Midnight editorial banner introducing Kumaradoss S, a Python developer focused on backend systems, developer tools, and applied AI.</desc>
+
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F1620"/>
+      <stop offset="1" stop-color="#0B0F14"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#17212D" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="340" fill="url(#surface)"/>
+  <rect width="1000" height="340" fill="url(#grid)" opacity="0.55"/>
+  <rect x="0" y="0" width="5" height="340" fill="#F37726"/>
+
+  <g stroke="#263342" stroke-width="1" opacity="0.9">
+    <path d="M596 34h12M602 28v12"/>
+    <path d="M596 306h12M602 300v12"/>
+  </g>
+
+  <g font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+    <text x="64" y="88" font-size="16" letter-spacing="5.5" fill="#F37726">PYTHON DEVELOPER</text>
+
+    <text x="63" y="160" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F1F5F9">Kumaradoss S</text>
+
+    <text x="64" y="201" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="20" fill="#B8C3D1">Backend systems, developer tools, and applied AI.</text>
+
+    <path d="M64 234h72" stroke="#F37726" stroke-width="3"/>
+
+    <text x="64" y="272" font-size="12" letter-spacing="2" fill="#8291A3">ASSOCIATE CORPORATE IT TRAINER · FOUNDER @ DEVSPIREHUB</text>
+  </g>
+
+  <g>
+    <rect x="628" y="58" width="308" height="224" fill="#111821" stroke="#263342" stroke-width="1"/>
+    <text x="652" y="92" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="3" fill="#8291A3">INDEX</text>
+    <text x="912" y="92" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#8291A3">04 ENTRIES</text>
+    <path d="M652 106h260" stroke="#263342" stroke-width="1"/>
+
+    <g font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">
+      <text x="652" y="142" fill="#F37726">01</text>
+      <text x="684" y="142" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#F1F5F9">Backend Engineering</text>
+      <rect x="900" y="137" width="12" height="3" fill="#F37726"/>
+
+      <text x="652" y="182" fill="#8291A3">02</text>
+      <text x="684" y="182" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#B8C3D1">Applied AI Systems</text>
+      <rect x="900" y="177" width="12" height="3" fill="#263342"/>
+
+      <text x="652" y="222" fill="#8291A3">03</text>
+      <text x="684" y="222" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#B8C3D1">Developer Tools</text>
+      <rect x="900" y="217" width="12" height="3" fill="#263342"/>
+
+      <text x="652" y="262" fill="#8291A3">04</text>
+      <text x="684" y="262" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#B8C3D1">Systems &amp; Networking</text>
+      <rect x="900" y="257" width="12" height="3" fill="#263342"/>
+    </g>
+  </g>
+</svg>

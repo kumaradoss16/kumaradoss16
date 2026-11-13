@@ -1,294 +1,136 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" alt="Kumaradoss S — Python Developer. Backend systems, developer tools, and applied AI." width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:1e3a8a&height=220&section=header&text=Kumaradoss%20S&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20(in%20progress)%20%7C%20System%20and%20Network%20Engineer%20%7C%20Python%20and%20Web%20%20Developer&descAlignY=55&descSize=17" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Associate+Corporate+IT+Trainer+%7C+System+and+Network+Engineer;Building+toward%3A+Security+Engineering;Backed+by%3A+Python+Development+%2B+Full+Stack+Development;Founder+%40DevspireHub" alt="Typing SVG" /></a>
-
-<br/>
-
-[![Location](https://img.shields.io/badge/Location-Puducherry,_India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF)](https://github.com/kumaradoss16)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DevspireHub-312E81?style=for-the-badge&logo=vercel&logoColor=E9D5FF)](https://devspirehub.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumaradoss--s-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=E9D5FF)](https://www.linkedin.com/in/kumaradoss-s/)
-[![Email](https://img.shields.io/badge/Email-kumaradoss.py%40gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=E9D5FF)](mailto:kumaradoss.py@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kumaradoss16-6D28D9?style=for-the-badge&logo=github&logoColor=E9D5FF)](https://github.com/kumaradoss16)
+<p align="center">
+  <a href="https://github.com/kumaradoss16">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kumaradoss-s/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:kumaradoss.py@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://devspirehub.com">DevSpireHub</a>
+</p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumaradoss16&color=6d28d9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/kumaradoss16?label=Followers&style=flat-square&color=4c1d95&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/kumaradoss16?label=Repo%20Stars&style=flat-square&color=312e81&logo=github&logoColor=white)
+## 01 / About
 
-</div>
+<p>I'm a <strong>Python developer</strong> focused on backend engineering, REST APIs, automation, and practical developer tools. Most of my work is <strong>local-first</strong>: Python and FastAPI services behind desktop shells, explicit data contracts with Pydantic, and workflows that keep a human in control of generated output.</p>
+
+<p>Applied AI is a supporting interest rather than a research focus — RAG pipelines, agentic workflows, and MCP integrations implemented as engineering patterns, with schema validation and deterministic fallbacks.</p>
+
+<p>Alongside development, I work as an <strong>Associate Corporate IT Trainer</strong>, teaching programming, Linux, and networking. That systems background shapes how I build, test, and troubleshoot software.</p>
+
+<p><sub><strong>ROLE</strong></sub> &nbsp;Associate Corporate IT Trainer<br/>
+<sub><strong>FOCUS</strong></sub> &nbsp;Python backend · automation · developer tools<br/>
+<sub><strong>BUILDING</strong></sub> &nbsp;Local-first tools and LLM engineering patterns<br/>
+<sub><strong>BASED IN</strong></sub> &nbsp;Puducherry, India<br/>
+<sub><strong>EDUCATION</strong></sub> &nbsp;MSc Materials Science &amp; Technology · BSc Physics · Advanced Diploma, System &amp; Network Engineering · Diploma, Python &amp; Flask Framework</p>
 
 <br/>
 
-## About Me
+<img src="assets/divider.svg" alt="" width="100%" />
 
-I'm an **Associate Corporate IT Trainer and System & Network Engineer** at Balsam Creative Technology, currently building toward **Security Engineering** as my primary career goal — supported by strong, evidence-based skills in **Python Development** and **Full Stack Development**.
+## 02 / Engineering Focus
 
-My day-to-day role already sits close to the security-adjacent side of IT: I train professionals on hardware & networking, Linux systems, SQL, and enterprise SAP (FICO & MM), and I deliver hands-on troubleshooting across hardware, operating systems, and lab environments. That work is backed by formal networking and systems credentials — **CCNA**, **MCSE**, and hands-on **VMware** experience — which form the infrastructure foundation I'm extending into security engineering: system hardening, network defense, and Linux/Windows administration.
+| <sub>01 / BACKEND</sub><br/><br/><strong>Backend Engineering</strong> | <sub>02 / APPLIED AI</sub><br/><br/><strong>Applied AI Systems</strong> |
+|:--|:--|
+| Python services and REST APIs with explicit schemas, validation, and structured error handling.<br/><br/><code>Python</code> <code>Flask</code> <code>FastAPI</code> <code>Pydantic</code> | RAG, agentic workflows, and MCP integrations built around validation and deterministic fallbacks.<br/><br/><code>RAG</code> <code>AI agents</code> <code>MCP</code> <code>Workflow automation</code> |
+| <sub>03 / TOOLING</sub><br/><br/><strong>Developer Tools</strong> | <sub>04 / SYSTEMS</sub><br/><br/><strong>Systems &amp; Networking</strong> |
+| Desktop and local-first applications that automate repetitive work and keep data on the machine.<br/><br/><code>Tauri</code> <code>Rust</code> <code>C#</code> <code>.NET</code> <code>WebView2</code> | Linux, Windows, and network fundamentals applied to diagnostics, troubleshooting, and automation.<br/><br/><code>Linux</code> <code>Windows</code> <code>Networking</code> <code>Docker</code> |
 
-On the development side, I hold a **Diploma in Python and Flask Framework**, and I build and ship Python and full-stack projects — from a console-based ATM transaction system to API-integrated web apps. I treat this development work as a force-multiplier for security engineering: writing secure code, automating security tooling, and understanding applications from the inside out.
+<br/>
 
-I also founded **DevspireHub**, and I approach every project — training, infrastructure, or code — with the same habits: clear documentation, systematic troubleshooting, and continuous, self-directed learning.
+<img src="assets/divider.svg" alt="" width="100%" />
 
-**Career positioning:** Security Engineer (primary) · Python Developer & Full Stack Developer (secondary)
+## 03 / Technical Stack
 
----
+<sub><strong>LANGUAGES &amp; BACKEND</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=py,flask,fastapi" height="40" alt="Python, Flask, FastAPI" /> <img src="https://img.shields.io/badge/Pydantic-17212D?style=flat-square&amp;logo=pydantic&amp;logoColor=F37726" height="24" alt="Pydantic" /> <img src="https://img.shields.io/badge/REST_APIs-17212D?style=flat-square" height="24" alt="REST APIs" />
 
-## Technical Stack
+<sub><strong>FRONTEND &amp; UI</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" height="40" alt="HTML, CSS, JavaScript, React, TypeScript" />
 
-**Programming**
+<sub><strong>DATABASES</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /> <img src="https://img.shields.io/badge/SQL-17212D?style=flat-square" height="24" alt="SQL" />
 
-![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![SQL](https://skillicons.dev/icons?i=sqlite)
+<sub><strong>APPLIED AI</strong></sub><br/>
+<code>RAG</code> <code>AI agents</code> <code>MCP</code> <code>LLM integration</code> <code>Workflow automation</code>
 
-**Frontend**
+<sub><strong>DESKTOP &amp; SYSTEMS</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=tauri,rust,cs,dotnet" height="40" alt="Tauri, Rust, C#, .NET" /> <img src="https://img.shields.io/badge/WebView2-17212D?style=flat-square&amp;logo=microsoftedge&amp;logoColor=F37726" height="24" alt="WebView2" /> <img src="https://img.shields.io/badge/WPF-17212D?style=flat-square" height="24" alt="WPF" />
 
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) 
+<sub><strong>TOOLS &amp; PLATFORMS</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode" height="40" alt="Linux, Windows, Git, GitHub, Docker, VS Code" /> <img src="https://img.shields.io/badge/n8n-17212D?style=flat-square&amp;logo=n8n&amp;logoColor=F37726" height="24" alt="n8n" />
 
-**Backend**
+<br/>
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+<img src="assets/divider.svg" alt="" width="100%" />
 
-**Databases**
+## 04 / Selected Projects
 
-![SQLite](https://skillicons.dev/icons?i=sqlite) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<sub><strong>FEATURED</strong></sub>
 
-**Networking**
+### [01 / PostFlow](https://github.com/kumaradoss16/PostFlow)
 
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![VPN](https://img.shields.io/badge/VPN-00979D?style=for-the-badge&logo=openvpn&logoColor=white) ![DHCP](https://img.shields.io/badge/DHCP-1BA0D7?style=for-the-badge) ![VLAN](https://img.shields.io/badge/VLAN-1BA0D7?style=for-the-badge)
+A single-user, local-first desktop application for drafting source content, managing platform variants, AI-assisted generation, revision approval, and scheduled publishing. Built as a strict modular monolith with a Python backend, a React interface, and a Tauri desktop shell.
 
-**Cybersecurity**
+<code>Python</code> <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>Rust</code>
 
-![Kali Linux](https://skillicons.dev/icons?i=kali) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-*(Actively building toward: vulnerability assessment, penetration testing, and security hardening tooling — see Current Focus.)*
-
-**Operating Systems**
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://skillicons.dev/icons?i=linux) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-**Automation**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Developer Tools**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![Docker](https://skillicons.dev/icons?i=docker)
-
-**Cloud**
-
-![AWS](https://skillicons.dev/icons?i=aws)
-
-**Enterprise / Analytics**
-
-![SAP](https://img.shields.io/badge/SAP_FICO_%2F_MM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[Repository →](https://github.com/kumaradoss16/PostFlow)
 
 ---
 
-## Core Expertise
+### [02 / LLM Engineering Patterns](https://github.com/kumaradoss16/llm-engineering-patterns)
 
-| Domain | Current Level | Technologies | Summary |
-|---|---|---|---|
-| Security Engineering | Learning / Building | Linux, Wireshark, Kali Linux, Networking fundamentals | Building toward security engineering on top of an existing CCNA/MCSE networking & systems foundation |
-| Python Development | Practicing | Python, Flask, SQLite | Certified in Python & Flask; builds console and API-driven applications |
-| Full Stack Development | Practicing | React, Node.js, HTML/CSS/JS, FastAPI, AWS | Ships full-stack, API-integrated applications independently and via AIthon VinLabs |
-| Backend Development | Practicing | Python, Flask, FastAPI, SQL | Designs application logic and data persistence for Python-based projects |
-| Linux Administration | Applied | Linux, VMware | Administers and troubleshoots Linux environments in training and lab settings |
-| Windows Administration | Applied | Windows Server, MCSE | MCSE-certified; supports Windows systems administration in training delivery |
-| Networking | Applied | CCNA, VLAN, VPN, DHCP | Configures and troubleshoots enterprise network infrastructure; builds network utilities in Python |
-| SQL | Practicing | SQL, SQLite | Applies relational database design in application projects |
-| System Administration | Applied | Hardware & Networking, Linux, Windows Server | Delivers end-to-end hardware/OS troubleshooting and lab environment configuration |
-| Automation | Practicing | Python, n8n | Builds workflow automations and Python scripting for business/technical processes |
-| Technical Training | Professional | Python, C/C++, SQL, Linux, SAP FICO/MM | Delivers multi-domain corporate IT training as Associate Corporate IT Trainer |
+A test-driven collection of LLM engineering patterns — classification, extraction, summarization, semantic search, and retrieval-augmented generation — with Pydantic-validated outputs, token and latency telemetry, and deterministic fallbacks against local Ollama models.
 
----
+<code>Python</code> <code>Pydantic</code> <code>Ollama</code> <code>RAG</code> <code>pytest</code>
 
-## Professional Experience
+[Repository →](https://github.com/kumaradoss16/llm-engineering-patterns)
 
-**Associate Corporate IT Trainer** — Balsam Creative Technology
-*2025 – Present*
+<br/>
 
-Spearheads multi-domain technical training covering hardware & networking, programming (Python, C, C++), databases (SQL), Linux systems, web technologies, and enterprise SAP (FICO & MM). Delivers end-to-end troubleshooting support across hardware and operating systems, and configures/optimizes lab environments and application stacks.
+| <sub>03 / DESKTOP TOOLING</sub><br/><br/>**[MarkForge — Markdown Studio](https://github.com/kumaradoss16/markdown-studio)** | <sub>04 / DESIGN TOOLING</sub><br/><br/>**[LabelForge Studio](https://github.com/kumaradoss16/labelforge)** |
+|:--|:--|
+| A local-first desktop Markdown workspace with tabbed editing, live GFM preview, PDF export, revision history, and review-gated GitHub publishing.<br/><br/><code>JavaScript</code> <code>WebView2</code> <code>Tauri</code> <code>C++</code><br/><br/>[View repository →](https://github.com/kumaradoss16/markdown-studio) | A label design studio for desktop and tablet, covering template presets, barcode generation, and print workflows.<br/><br/><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Express</code><br/><br/>[View repository →](https://github.com/kumaradoss16/labelforge) |
 
-**Technologies Used:** Python, C, C++, SQL, Linux, SAP FICO, SAP MM
-**Skills:** Technical Training, Systems Administration, Troubleshooting, Curriculum Delivery, Documentation
+<br/>
 
----
+| <sub>05 / BACKEND &amp; NETWORKING</sub><br/><br/>**[Network Diagnostic API](https://github.com/kumaradoss16/network-diagnostic-api)** | <sub>06 / SECURITY TOOLING</sub><br/><br/>**[Linux Log Analyzer](https://github.com/kumaradoss16/linux-log-analyzer)** |
+|:--|:--|
+| A FastAPI service exposing ping, DNS, TCP port, HTTP/HTTPS, and latency checks as validated REST endpoints, with structured errors and optional private-target blocking.<br/><br/><code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>httpx</code><br/><br/>[View repository →](https://github.com/kumaradoss16/network-diagnostic-api) | A zero-dependency Python CLI and local web dashboard for Linux auth, system, and web logs, with brute-force detection, compromise indicators, and text or JSON report export.<br/><br/><code>Python</code> <code>stdlib</code> <code>Vanilla JS</code><br/><br/>[View repository →](https://github.com/kumaradoss16/linux-log-analyzer) |
 
-**Web Developer (Intern)** — Balsam Creative Technology
-*2024*
+<br/>
 
-Assisted in designing and developing website components while supporting overall project execution and timely delivery. Demonstrated strong self-learning ability, technical adaptability, and consistent on-time project completion.
+<img src="assets/divider.svg" alt="" width="100%" />
 
-**Technologies Used:** HTML, CSS, JavaScript
-**Skills:** Web Development, Project Execution, Self-Directed Learning
+## 05 / Digital Platforms
 
----
+| [**DevSpireHub**](https://devspirehub.com) | [**DevSpire Nexus**](https://nexus.devspirehub.com) | [**Portfolio**](https://portfolio.devspirehub.com) |
+|:--|:--|:--|
+| Technical resources on programming, networking, automation, and practical development. | A curated platform for discovering AI tools, models, and developer resources. | Selected engineering work, project write-ups, and a developer profile. |
 
-## Certifications
+<br/>
 
-### Networking
+<img src="assets/divider.svg" alt="" width="100%" />
 
-| Certification | Issued By | Date | Credential |
-|---|---|---|---|
-| Advanced Diploma in System and Network Engineer | VKR Solutions | *Not specified* | *Optional – Add Later* |
+## 06 / GitHub Analytics
 
-### Programming
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumaradoss16&amp;theme=github_dark" alt="GitHub profile summary for kumaradoss16: contribution activity, repositories, and account age" width="100%" />
+</p>
 
-| Certification | Issued By | Date | Credential |
-|---|---|---|---|
-| Diploma in Python and Flask Framework | Ocean Academy | *Not specified* | *Optional – Add Later* |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumaradoss16&amp;theme=github_dark" alt="Top languages by repository: Python, TypeScript, HTML, and JavaScript" width="70%" />
+</p>
 
-Credly Badge Wallet: https://www.credly.com/users/kumaradoss-s/badges/credly
-| # | Certification | Issuer |
-|---|---|---|
-| 1 | Python Essentials 1 & Essentials 2 | Cisco |
-| 2 | JavaScript Essentials 1 & Essentials 2 | Cisco |
-| 3 | Network Support and Security | Cisco |
-| 4 | Linux Essentials | Cisco |
-| 5 | Computer Hardware Basics | Cisco |
-| 6 | Introduction to Cybersecurity | Cisco |
-| 7 | Networking Devices and Initial Configuration | Cisco |
-| 8 | Network Addressing and Basic Troubleshooting | Cisco |
-| 9 | Networking Basics | Cisco |
-| 10 | Google Cybersecurity Professional Certificate V2 | Coursera |
-| 11 | Technical Support Fundamentals (Google) | Coursera | 
+<br/>
 
-**Certification Highlights**
+<img src="assets/divider.svg" alt="" width="100%" />
 
-The Advanced Diploma in System and Network Engineer directly supports the **Security Engineering (primary)** goal by validating networking and systems fundamentals — the same foundation used in infrastructure and network security work. The Diploma in Python and Flask Framework supports both **Python Development** and **Full Stack Development (secondary)** goals, evidencing formal backend/web framework training that underpins the Flask- and FastAPI-based projects in the Featured Projects section.
+## 07 / Closing
 
----
+> Engineering practical software. Building tools that solve real problems.
 
-## Coding Profiles
+**Kumaradoss S** — Python Developer · Puducherry, India
 
-[![GitHub](https://img.shields.io/badge/GitHub-kumaradoss16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumaradoss16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumaradoss--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaradoss-s/)
-
-
----
-
-## GitHub Analytics
-
-<div align="center"> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=kumaradoss16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" width="49%"/> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=kumaradoss16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e9d5ff" width="42%"/> <br/> <img src="https://streak-stats.demolab.com/?user=kumaradoss16&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="70%"/> </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kumaradoss16&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumaradoss16&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9D5FF" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kumaradoss16/kumaradoss16/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-> **Setup required:** this image will 404 until the snake workflow runs at least once. Add `.github/workflows/snake.yml` (provided alongside this README) to your `kumaradoss16/kumaradoss16` repository, push it, then let the Action run — it will generate `output/github-contribution-grid-snake-dark.svg` on the `output` branch automatically.
-
----
-
-## Current Focus
-
-```yaml
-Current_Role:
-  - Associate Corporate IT Trainer, Balsam Creative Technology
-
-Primary_Goal:
-  - Security Engineer
-
-Secondary_Goals:
-  - Full Stack Developer
-  - Python Developer
-
-Learning:
-  - Security engineering fundamentals
-  - Linux administration (advanced)
-  - Windows systems security
-  - Network security
-  - Secure coding practices
-  - Python automation
-  - Full-stack application development
-  - REST API development
-
-Building:
-  - Python security-oriented automation scripts
-  - Full-stack applications (Python + React/Node.js)
-  - Networking utilities
-  - DevspireHub technical content
-
-Exploring:
-  - Infrastructure security
-  - Bug Bounty
-  - Ethical Hacking
-  - Web and API security
-
-Open_To:
-  - Security Engineer / Infrastructure Security roles
-  - Python Developer / Backend Developer roles
-  - Full Stack Developer roles
-  - Open-source collaboration
-```
-
----
-
-## Career Vision
-
-**Roadmap**
-
-`Associate Corporate IT Trainer` → `System Administration` → `Python Development` → `Full Stack Development` → `Security Engineering` → `Senior Security Engineer` → `Security Architect`
-
-**How Python & Full Stack Development strengthen the Security Engineering path:**
-
-- **Secure Software Development** — Understanding how applications are built (Flask/FastAPI backends, React/Node.js frontends) informs how they should be defended.
-- **Security Automation** — Python is the primary language for writing scanning, monitoring, and response tooling.
-- **Backend & API Security** — Hands-on backend development (Flask, FastAPI, REST APIs) builds direct insight into authentication, authorization, and API attack surfaces.
-- **Infrastructure Automation** — n8n and Python automation experience translates into automating security workflows and DevSecOps pipelines.
-
-**Short-term (6–12 months):** Deepen Linux/Windows security administration, build Python-based security automation projects, and formalize security engineering knowledge alongside existing CCNA/MCSE credentials.
-
-**Mid-term (1–3 years):** Move into a Security Engineer / Infrastructure Security Engineer role, applying networking, systems, and Python/full-stack development skills to secure real infrastructure and applications.
-
-**Long-term (3+ years):** Grow into a Senior Security Engineer / Security Architect role, while continuing to build DevspireHub and AIthon VinLabs and mentoring others transitioning from IT training into engineering.
-
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-devspirehub.com-4C1D95?style=for-the-badge&logo=vercel&logoColor=E9D5FF)](https://devspirehub.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=E9D5FF)](https://www.linkedin.com/in/kumaradoss-s/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=E9D5FF)](https://github.com/kumaradoss16)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=E9D5FF)](mailto:kumaradoss.py@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Security is not a product, but a process. Committed to continuous learning and contributing to a safer digital world."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:4c1d95,100:1e1b4b&height=120&section=footer" width="100%"/>
-
-</div>
+[GitHub](https://github.com/kumaradoss16) · [LinkedIn](https://www.linkedin.com/in/kumaradoss-s/) · [Email](mailto:kumaradoss.py@gmail.com) · [DevSpireHub](https://devspirehub.com)

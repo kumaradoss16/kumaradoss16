@@ -1,62 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:1E1B3A,100:A78BFA&height=130&section=header&text=Kumaradoss&fontSize=46&fontColor=F0F3F6&fontAlignY=42&desc=Python%20Developer%20%C2%B7%20System%20%26%20Network%20Engineer&descSize=16&descColor=AAB4C0&descAlignY=68" alt="Kumaradoss - Python Developer and System and Network Engineer" width="100%" />
+<img src="assets/devspirehub-header.svg" alt="Kumaradoss — Python Developer, System and Network Engineer, Applied AI Builder" width="100%" />
 
 <a href="https://github.com/kumaradoss16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=A78BFA&center=true&vCenter=true&width=640&height=45&lines=Python+Developer;Backend+Application+Developer;System+%26+Network+Engineer;Applied+AI+Engineering;Software+%26+Automation+Builder" alt="Rotating titles: Python Developer, Backend Application Developer, System and Network Engineer, Applied AI Engineering, Software and Automation Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1800&color=E54415&center=true&vCenter=true&width=620&height=45&lines=Python+Developer;Backend+Development;System+%26+Network+Engineering;Applied+AI+Engineering;Building+Practical+Software+Solutions" alt="Rotating focus areas: Python Developer, Backend Development, System and Network Engineering, Applied AI Engineering, Building Practical Software Solutions" />
 </a>
-
-<sub>Building practical software, backend systems, automation tools, and applied AI solutions.</sub>
 
 </div>
 
-<br>
-
-## Professional Identity
-
-```console
-$ whoami
-kumaradoss
-
-$ cat roles.txt
-primary    : Python Developer
-secondary  : System & Network Engineer
-context    : Associate Corporate IT Trainer
-direction  : Backend Engineering · Automation · Applied AI · Systems
-```
-
 ## About Me
 
-I'm a Python Developer with a background in System and Network Engineering. My work and interests focus on backend application development, practical software engineering, automation, and applied AI systems. I also work as an **Associate Corporate IT Trainer** at Balsam Creative Technology.
+I'm a Python Developer with a background in System and Network Engineering. I build backend applications and APIs with Flask and FastAPI, practical automation tools, and applied AI workflows involving RAG, AI agents, and MCP.
 
-**Technical interests**
-
-- **Python** application development, with Flask, FastAPI, and REST APIs
-- **SQL** and database integration
-- **Linux and Windows** systems, plus networking fundamentals
-- **Applied AI:** Retrieval-Augmented Generation (RAG), AI agents, and Model Context Protocol (MCP)
-- **Workflow automation**, desktop applications, and developer productivity tools
+My systems background (Linux, Windows, networking, VMware) shapes how I write software: I like tools that are easy to run, easy to troubleshoot, and useful on day one. I also work as an **Associate Corporate IT Trainer** at Balsam Creative Technology, teaching hands-on technology skills.
 
 ---
 
-## Digital Platforms & Online Presence
+## My Digital Platforms
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🟣 DevSpireHub</h3>
-      <p>A technical learning platform covering programming, Python, AI, cybersecurity, networking, automation, Linux, Windows, and practical development guides.</p>
-      <a href="https://devspirehub.com"><img src="https://img.shields.io/badge/Visit-devspirehub.com-A78BFA?style=flat-square&labelColor=161B22" alt="Visit devspirehub.com" /></a>
+      <h3>DevSpireHub</h3>
+      <p>A practical technical learning platform covering programming, Python, AI, cybersecurity, networking, Linux, Windows, and automation.</p>
+      <a href="https://devspirehub.com"><img src="https://img.shields.io/badge/devspirehub.com-E54415?style=flat-square" alt="Visit devspirehub.com" /></a>
     </td>
     <td width="33%" valign="top">
-      <h3>🔵 DevSpire Nexus</h3>
-      <p>A technical resource discovery platform focused on AI applications, developer tools, productivity software, and useful technical resources.</p>
-      <a href="https://nexus.devspirehub.com"><img src="https://img.shields.io/badge/Visit-nexus.devspirehub.com-38BDF8?style=flat-square&labelColor=161B22" alt="Visit nexus.devspirehub.com" /></a>
+      <h3>DevSpire Nexus</h3>
+      <p>A curated discovery platform for AI applications, developer tools, productivity software, and useful technical resources.</p>
+      <a href="https://nexus.devspirehub.com"><img src="https://img.shields.io/badge/nexus.devspirehub.com-10243A?style=flat-square" alt="Visit nexus.devspirehub.com" /></a>
     </td>
     <td width="33%" valign="top">
-      <h3>🟢 Developer Portfolio</h3>
-      <p>My professional portfolio featuring my technical background, engineering interests, and selected projects.</p>
-      <a href="https://portfolio.devspirehub.com"><img src="https://img.shields.io/badge/Visit-portfolio.devspirehub.com-34D399?style=flat-square&labelColor=161B22" alt="Visit portfolio.devspirehub.com" /></a>
+      <h3>Portfolio</h3>
+      <p>My professional profile, selected engineering projects, and technical work.</p>
+      <a href="https://portfolio.devspirehub.com"><img src="https://img.shields.io/badge/portfolio.devspirehub.com-19BAAF?style=flat-square" alt="Visit portfolio.devspirehub.com" /></a>
     </td>
   </tr>
 </table>
@@ -65,126 +42,87 @@ I'm a Python Developer with a background in System and Network Engineering. My w
 
 ## Technical Stack
 
-<sub>Grouped by area of work and exposure - not a proficiency ranking.</sub>
+<sub>Technical exposure and project experience, not a proficiency ranking.</sub>
 
 <table>
   <tr>
-    <td width="26%" valign="top"><b>Languages & Backend</b><br><sub>Python · C · C++ · SQL · Flask · FastAPI · REST APIs · Pydantic</sub></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=python,c,cpp,flask,fastapi&theme=dark" height="44" alt="Python, C, C++, Flask, FastAPI" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Frontend & Web</b><br><sub>HTML5 · CSS3 · JavaScript · React · TypeScript</sub></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" height="44" alt="HTML5, CSS3, JavaScript, React, TypeScript" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Database</b><br><sub>SQLite · SQL-based database systems</sub></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="44" alt="SQLite" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Systems & Networking</b><br><sub>Linux · Windows · Networking fundamentals · VMware · Hardware & software troubleshooting</sub></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=dark" height="44" alt="Linux, Windows, VMware" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Applied AI</b><br><sub>Concepts and workflows (no icon set exists for these)</sub></td>
+    <td width="24%" valign="middle"><b>Programming Languages</b></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/LLM_Integration-212936?style=flat-square" alt="LLM Integration" />
-      <img src="https://img.shields.io/badge/RAG-212936?style=flat-square" alt="RAG" />
-      <img src="https://img.shields.io/badge/AI_Agents-212936?style=flat-square" alt="AI Agents" />
-      <img src="https://img.shields.io/badge/MCP-212936?style=flat-square" alt="Model Context Protocol" />
-      <img src="https://img.shields.io/badge/Workflow_Automation-212936?style=flat-square" alt="Workflow Automation" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-212936?style=flat-square" alt="Prompt Engineering" />
-      <img src="https://img.shields.io/badge/Context_Engineering-212936?style=flat-square" alt="Context Engineering" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" height="40" alt="Python, C, C++" /><br>
+      <img src="https://img.shields.io/badge/SQL-EEF2F6?style=flat-square" alt="SQL" />
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Desktop & Developer Tools</b><br><sub>Git · GitHub · VS Code · Tauri · Rust · C# / .NET · WPF · Docker · n8n</sub></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,tauri,rust,cs,dotnet,docker,n8n&theme=dark" height="44" alt="Git, GitHub, VS Code, Tauri, Rust, C Sharp, .NET, Docker, n8n" /></td>
+    <td valign="middle"><b>Backend Development</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=light" height="40" alt="Flask, FastAPI" /><br>
+      <img src="https://img.shields.io/badge/REST_APIs-EEF2F6?style=flat-square" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Pydantic-EEF2F6?style=flat-square" alt="Pydantic" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Frontend Development</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=light" height="40" alt="HTML5, CSS3, JavaScript, React, TypeScript" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Databases</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" height="40" alt="SQLite" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Systems & Networking</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=linux,windows,vmware&theme=light" height="40" alt="Linux, Windows, VMware" /><br>
+      <img src="https://img.shields.io/badge/Networking-EEF2F6?style=flat-square" alt="Networking" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>AI & Automation</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=n8n&theme=light" height="40" alt="n8n" /><br>
+      <img src="https://img.shields.io/badge/RAG-EEF2F6?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/AI_Agents-EEF2F6?style=flat-square" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/MCP-EEF2F6?style=flat-square" alt="Model Context Protocol" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Desktop Development</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=tauri,rust,cs,dotnet&theme=light" height="40" alt="Tauri, Rust, C Sharp, .NET" /><br>
+      <img src="https://img.shields.io/badge/WPF-EEF2F6?style=flat-square" alt="WPF" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Developer Tools</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=light" height="40" alt="Git, GitHub, Docker, VS Code" /></td>
   </tr>
 </table>
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 <a href="https://github.com/kumaradoss16/AI-Workflow-Orchestrator">AI Workflow Orchestrator</a></h3>
-      <p>A local-first platform for coordinating AI-assisted development workflows, project context, and execution.</p>
-      <code>Applied AI</code> <code>Developer Workflows</code> <code>Local-first</code><br>
-      <a href="https://github.com/kumaradoss16/AI-Workflow-Orchestrator">Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📝 <a href="https://github.com/kumaradoss16/PostFlow">PostFlow</a></h3>
-      <p>A content management and AI-assisted publishing workflow application.</p>
-      <code>Content Management</code> <code>AI-Assisted Publishing</code><br>
-      <a href="https://github.com/kumaradoss16/PostFlow">Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✍️ <a href="https://github.com/kumaradoss16/markdown-studio">MarkForge / Markdown Studio</a></h4>
-      <p>A desktop Markdown editor and document workspace focused on writing and productivity.</p>
-      <code>Desktop</code> <code>Markdown</code><br>
-      <a href="https://github.com/kumaradoss16/markdown-studio">Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏷️ <a href="https://github.com/kumaradoss16/Label-Forge">Label Forge</a></h4>
-      <p>A Windows label design, barcode, and printing application.</p>
-      <code>Windows</code> <code>Barcode</code> <code>Printing</code><br>
-      <a href="https://github.com/kumaradoss16/Label-Forge">Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📡 <a href="https://github.com/kumaradoss16/network-diagnostic-api">Network Diagnostic API</a></h4>
-      <p>A Python-based API for network connectivity checks and diagnostic operations.</p>
-      <code>Python</code> <code>API</code> <code>Networking</code><br>
-      <a href="https://github.com/kumaradoss16/network-diagnostic-api">Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🐧 <a href="https://github.com/kumaradoss16/linux-log-analyzer">Linux Log Analyzer</a></h4>
-      <p>A utility for analyzing Linux authentication logs and identifying potentially suspicious activity.</p>
-      <code>Linux</code> <code>Log Analysis</code><br>
-      <a href="https://github.com/kumaradoss16/linux-log-analyzer">Repository →</a>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Focus |
+|---|---|---|
+| **[AI Workflow Orchestrator](https://github.com/kumaradoss16/AI-Workflow-Orchestrator)** | Local-first AI workflow coordination and execution. | `AI workflows` `Local-first` |
+| **[PostFlow](https://github.com/kumaradoss16/PostFlow)** | Content management and AI-assisted publishing workflows. | `Content` `AI-assisted` |
+| **[Markdown Studio](https://github.com/kumaradoss16/markdown-studio)** | Desktop Markdown editor and document workspace. | `Desktop` `Markdown` |
+| **[Label Forge](https://github.com/kumaradoss16/Label-Forge)** | Windows-based label design, barcode, and printing application. | `Windows` `Barcode` |
+| **[Network Diagnostic API](https://github.com/kumaradoss16/network-diagnostic-api)** | Network connectivity and diagnostic API. | `Python` `API` `Networking` |
+| **[Linux Log Analyzer](https://github.com/kumaradoss16/linux-log-analyzer)** | Linux authentication log analysis and suspicious activity detection. | `Linux` `Log analysis` |
 
 ---
 
 ## Education
 
-| | |
-|---|---|
-| **MSc** | Materials Science and Technology |
-| **BSc** | Physics |
-| **Advanced Diploma** | System and Network Engineering - VKR Solutions |
-| **Diploma** | Python and Flask Framework - Ocean Academy |
-
-<sub>Professional certificates (Cisco, Google/Coursera): <a href="https://www.credly.com/users/kumaradoss-s/badges/credly">Credly badge wallet</a></sub>
+- **MSc** — Materials Science and Technology
+- **BSc** — Physics
+- **Advanced Diploma** — System and Network Engineering (VKR Solutions)
+- **Diploma** — Python and Flask Framework (Ocean Academy)
 
 ---
 
-## Connect With Me
+## Connect
 
-<table>
-  <tr>
-    <td>🐙 <a href="https://github.com/kumaradoss16">GitHub</a></td>
-    <td>💼 <a href="https://www.linkedin.com/in/kumaradoss-s/">LinkedIn</a></td>
-    <td>🌐 <a href="https://devspirehub.com">DevSpireHub</a></td>
-  </tr>
-  <tr>
-    <td>🧭 <a href="https://nexus.devspirehub.com">DevSpire Nexus</a></td>
-    <td>🗂️ <a href="https://portfolio.devspirehub.com">Portfolio</a></td>
-    <td></td>
-  </tr>
-</table>
+[GitHub](https://github.com/kumaradoss16) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kumaradoss-s/) &nbsp;·&nbsp; [DevSpireHub](https://devspirehub.com)
 
-<div align="center">
-
-<sub><i>Thanks for stopping by. Explore the projects, or get in touch.</i></sub>
-
-</div>
+<img src="assets/devspirehub-divider.svg" alt="" width="100%" />
